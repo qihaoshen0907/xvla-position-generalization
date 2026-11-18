@@ -1,0 +1,38 @@
+{
+  "episodes": 400,
+  "queries": 5526,
+  "feature_groups": [
+    "vision_main_mean",
+    "vision_wrist_mean",
+    "fusion_visual_mean",
+    "fusion_text_sequence_mean",
+    "projected_fusion_mean",
+    "projected_wrist_mean",
+    "block_00_all_mean",
+    "block_00_first5_mean",
+    "block_00_token0",
+    "block_11_all_mean",
+    "block_11_first5_mean",
+    "block_11_token0",
+    "block_23_all_mean",
+    "block_23_first5_mean",
+    "block_23_token0"
+  ],
+  "all_features_read_and_finite": true,
+  "all_required_datasets_present": true,
+  "files_sha256_verified": 400,
+  "collection": {
+    "episodes": 400,
+    "queries": 5526,
+    "bytes": 12631599213,
+    "all_passed": true,
+    "max_errors": {
+      "eef_m": 0.0,
+      "mug_qpos_m": 0.0,
+      "mug_body_m": 0.0,
+      "speed_m_s": 0.0,
+      "action": 0.0,
+      "hook_action": 0.0
+    }
+  }
+}

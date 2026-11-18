@@ -1,0 +1,11 @@
+{
+  "model": "lerobot/xvla-libero",
+  "revision": "12e8783e996944f5c97e490d37d4c145484ed70a",
+  "adapter_loaded": false,
+  "episodes": 300,
+  "per_ring": 100,
+  "sampling_seed": 2026111802,
+  "policy_seed": 195,
+  "positions_sha256": "141f90419346ef4180ccba3529c9bd96899f92b199bbf1315da36a16ec622142",
+  "ring_membership_checked": 300
+}

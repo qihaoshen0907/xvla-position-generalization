@@ -1,0 +1,12 @@
+{
+  "selection": "first episode by id in each failure category",
+  "ids": [
+    "R0_58",
+    "R1_01",
+    "R0_09",
+    "R1_16",
+    "R1_26"
+  ],
+  "frames": "first close, highest mug body position, final",
+  "scope": "representative visual cross-check, not exhaustive manual ground truth"
+}

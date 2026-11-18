@@ -1,0 +1,59 @@
+{
+  "sample": "first pre-action query per episode",
+  "n": 400,
+  "successes": 133,
+  "features": [
+    "vision_main_mean",
+    "vision_wrist_mean",
+    "fusion_visual_mean",
+    "block_00_all_mean",
+    "block_11_all_mean",
+    "block_23_all_mean"
+  ],
+  "normalization": "row L2; no PCA, no label-based preprocessing",
+  "tsne": {
+    "perplexity": [
+      15,
+      30,
+      50
+    ],
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "init": "random",
+    "metric": "euclidean on L2-normalized vectors",
+    "max_iter": 1500,
+    "learning_rate": "auto",
+    "method": "barnes_hut"
+  },
+  "umap": {
+    "n_neighbors": [
+      15,
+      30,
+      50
+    ],
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "min_dist": 0.1,
+    "metric": "euclidean on L2-normalized vectors",
+    "init": "random",
+    "n_epochs": 500
+  },
+  "main_plot": "parameter30 seed0 selected before seeing embeddings",
+  "diagnostics": "10 nearest neighbors; 1000 global/within-ring label permutations; exploratory, unadjusted p values; position confounding not removed by ring conditioning",
+  "versions": {
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "umap-learn": "0.6.0"
+  },
+  "input_sha256": {
+    "pooled_features.npz": "2b5c2a3c9db1b41227ef816e0d4dfc94c8a8facfadb4f94702ff599ec03f6263",
+    "query_index.jsonl": "0229a9ee40a2c488ed721821c17d3a6e1939282d5ffcf4feb9efedb1fc5abf55"
+  }
+}

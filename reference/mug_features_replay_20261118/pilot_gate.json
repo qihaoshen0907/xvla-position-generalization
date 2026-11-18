@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "pilot_ids": [
+    "R0_00",
+    "R0_09",
+    "R0_34",
+    "R1_05",
+    "R1_00",
+    "R1_14",
+    "R2_01",
+    "R2_00",
+    "R2_96",
+    "R3_00",
+    "R3_24",
+    "R3_96"
+  ],
+  "queries": 164,
+  "all_hook_outputs_exact": true,
+  "projected_total_bytes": 12625606605.292685,
+  "expected_queries": 5526,
+  "free_bytes_at_gate": 48215138304
+}

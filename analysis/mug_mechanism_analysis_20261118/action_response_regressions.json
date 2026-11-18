@@ -1,0 +1,362 @@
+[
+  {
+    "level": 0,
+    "response": "first_chunk_endpoint_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.39993005279451277,
+        0.0864994669183804
+      ],
+      [
+        -0.2550390047063071,
+        0.9818197147244198
+      ]
+    ],
+    "intercept_cm": [
+      -1.5581108228211076,
+      2.239787619671071
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.3331679777719217,
+        0.9455180699952601
+      ],
+      [
+        0.4966786793420508,
+        1.0178275206487108
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 0,
+    "response": "first_close_eef_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.2406594385644164,
+        0.25449177555480573
+      ],
+      [
+        -0.18740806710792365,
+        0.9040181524670374
+      ]
+    ],
+    "intercept_cm": [
+      -11.000027680562203,
+      -12.749798694536278
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.08082955262950872,
+        0.8588183203939852
+      ],
+      [
+        0.4350572129675245,
+        0.944148319258218
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 0,
+    "response": "first_close_command_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.2826203950386359,
+        0.19102884992942848
+      ],
+      [
+        -0.1683063098218768,
+        0.8607541980788908
+      ]
+    ],
+    "intercept_cm": [
+      -11.082512879897138,
+      -12.510855867373005
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.16863675998203478,
+        0.8239183584682993
+      ],
+      [
+        0.3929713750068906,
+        0.8939341339666329
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 1,
+    "response": "first_chunk_endpoint_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.23580838651559624,
+        -0.005561860462222651
+      ],
+      [
+        -0.11408191255617,
+        0.5135363957787427
+      ]
+    ],
+    "intercept_cm": [
+      -1.4521166157560759,
+      2.0415419703771933
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.1991469253476298,
+        0.468401098989252
+      ],
+      [
+        0.27701904245397113,
+        0.5630198697100656
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 1,
+    "response": "first_close_eef_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.024426148522279492,
+        0.19763992836242494
+      ],
+      [
+        -0.09720692926817548,
+        0.44411177688320125
+      ]
+    ],
+    "intercept_cm": [
+      -9.10742531272756,
+      -13.423803112987608
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        -0.04673416687543639,
+        0.3956767723913116
+      ],
+      [
+        0.08882160761502912,
+        0.49496244795796984
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 1,
+    "response": "first_close_command_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        -0.02331714283039664,
+        0.09628523196547337
+      ],
+      [
+        -0.025363002825182113,
+        0.42172086003666964
+      ]
+    ],
+    "intercept_cm": [
+      -10.098997482198225,
+      -13.217150468965567
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        -0.0927892239086838,
+        0.37966454660737065
+      ],
+      [
+        0.05095711283429409,
+        0.46913166048084287
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 2,
+    "response": "first_chunk_endpoint_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.1528621606972896,
+        -0.059135663906385465
+      ],
+      [
+        -0.09355616198671335,
+        0.5215977108571856
+      ]
+    ],
+    "intercept_cm": [
+      -1.412288204524777,
+      2.1813262497991497
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.13140117539267468,
+        0.49848624431428407
+      ],
+      [
+        0.175901100044342,
+        0.5438037458727476
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 2,
+    "response": "first_close_eef_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.21388777549558613,
+        -0.002404392285449322
+      ],
+      [
+        -0.16539854587564173,
+        0.4822740986463375
+      ]
+    ],
+    "intercept_cm": [
+      -9.462341485777243,
+      -13.522574036677836
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.17414249586418976,
+        0.4483832154548989
+      ],
+      [
+        0.2596552972370124,
+        0.5136401127234678
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 2,
+    "response": "first_close_command_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.18330678429526376,
+        -0.04975491922943744
+      ],
+      [
+        -0.16900149702395856,
+        0.5152233844523365
+      ]
+    ],
+    "intercept_cm": [
+      -10.538528793895594,
+      -13.517252856572473
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.1478410513165763,
+        0.4821242924978685
+      ],
+      [
+        0.22261902450266657,
+        0.5455538999562964
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 3,
+    "response": "first_chunk_endpoint_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.18610829963504674,
+        -0.06277490364164444
+      ],
+      [
+        -0.08811479613225635,
+        0.46525350120301023
+      ]
+    ],
+    "intercept_cm": [
+      -0.953250360855577,
+      2.4002140564750936
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.16385351425748648,
+        0.4343342148920539
+      ],
+      [
+        0.21109690591888333,
+        0.49694148689916456
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 3,
+    "response": "first_close_eef_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.1671671471152241,
+        -0.046262582947814865
+      ],
+      [
+        -0.116798170191432,
+        0.43276251627537243
+      ]
+    ],
+    "intercept_cm": [
+      -9.61217167237732,
+      -13.32531517733736
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.1359924450815724,
+        0.39931550703623186
+      ],
+      [
+        0.19818601071295533,
+        0.46716540159874126
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  },
+  {
+    "level": 3,
+    "response": "first_close_command_xy_cm",
+    "n": 100,
+    "gain_matrix_outputs_xy_inputs_xy": [
+      [
+        0.16384976068394932,
+        -0.04023150935007758
+      ],
+      [
+        -0.13267012421350774,
+        0.47102906549109613
+      ]
+    ],
+    "intercept_cm": [
+      -9.763032001679793,
+      -13.817602146150158
+    ],
+    "diagonal_gain_bootstrap95": [
+      [
+        0.12969122604461966,
+        0.4329304718229936
+      ],
+      [
+        0.19503203861866916,
+        0.5076465825620925
+      ]
+    ],
+    "note": "Descriptive affine gain, not a required ideal controller gain; first chunk is approach, not a completed grasp."
+  }
+]

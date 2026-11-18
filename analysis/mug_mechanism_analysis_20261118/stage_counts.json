@@ -1,0 +1,34 @@
+{
+  "0": {
+    "success": 89,
+    "no_grasp": 1,
+    "brief_grasp": 0,
+    "lost_grasp_before_near_plate": 10,
+    "held_without_near_plate": 0,
+    "near_plate_unfinished": 0
+  },
+  "1": {
+    "success": 36,
+    "no_grasp": 22,
+    "brief_grasp": 9,
+    "lost_grasp_before_near_plate": 27,
+    "held_without_near_plate": 5,
+    "near_plate_unfinished": 1
+  },
+  "2": {
+    "success": 8,
+    "no_grasp": 49,
+    "brief_grasp": 2,
+    "lost_grasp_before_near_plate": 23,
+    "held_without_near_plate": 18,
+    "near_plate_unfinished": 0
+  },
+  "3": {
+    "success": 0,
+    "no_grasp": 73,
+    "brief_grasp": 1,
+    "lost_grasp_before_near_plate": 8,
+    "held_without_near_plate": 18,
+    "near_plate_unfinished": 0
+  }
+}

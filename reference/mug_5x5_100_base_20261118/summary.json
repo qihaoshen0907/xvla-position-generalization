@@ -1,0 +1,31 @@
+{
+  "episodes": 100,
+  "stable_successes": 89,
+  "stable_success_rate": 0.89,
+  "wilson_95_ci": [
+    0.8136870349691969,
+    0.9374580364293543
+  ],
+  "native_successes": 89,
+  "failures": [
+    "R0_09",
+    "R0_15",
+    "R0_25",
+    "R0_46",
+    "R0_48",
+    "R0_58",
+    "R0_67",
+    "R0_73",
+    "R0_85",
+    "R0_90",
+    "R0_94"
+  ],
+  "sampling_seed": 2026111801,
+  "policy_seed": 195,
+  "adapter_loaded": false,
+  "comparison_previous": {
+    "successes": 18,
+    "episodes": 20
+  },
+  "positions_sha256": "d0198b3926198b87c523b23799c8bc811bcbe2bbfaffe4a4656b9be39cb6c398"
+}

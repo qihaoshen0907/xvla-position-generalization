@@ -1,0 +1,75 @@
+{
+  "episodes": 400,
+  "successes": 133,
+  "failures": 267,
+  "no_grasp_detection": 145,
+  "no_grasp_detection_but_lift": 21,
+  "stage_counts": {
+    "0": {
+      "success": 89,
+      "no_grasp": 1,
+      "brief_grasp": 0,
+      "lost_grasp_before_near_plate": 10,
+      "held_without_near_plate": 0,
+      "near_plate_unfinished": 0
+    },
+    "1": {
+      "success": 36,
+      "no_grasp": 22,
+      "brief_grasp": 9,
+      "lost_grasp_before_near_plate": 27,
+      "held_without_near_plate": 5,
+      "near_plate_unfinished": 1
+    },
+    "2": {
+      "success": 8,
+      "no_grasp": 49,
+      "brief_grasp": 2,
+      "lost_grasp_before_near_plate": 23,
+      "held_without_near_plate": 18,
+      "near_plate_unfinished": 0
+    },
+    "3": {
+      "success": 0,
+      "no_grasp": 73,
+      "brief_grasp": 1,
+      "lost_grasp_before_near_plate": 8,
+      "held_without_near_plate": 18,
+      "near_plate_unfinished": 0
+    }
+  },
+  "first_close_median_gap_cm": [
+    2.8264492191491772,
+    4.261515652717618,
+    5.578204139286051,
+    7.923421890168651
+  ],
+  "probe_outer_fold_sizes": [
+    [
+      318,
+      76
+    ],
+    [
+      320,
+      71
+    ],
+    [
+      307,
+      80
+    ],
+    [
+      334,
+      63
+    ],
+    [
+      279,
+      110
+    ]
+  ],
+  "all_checks_passed": true,
+  "source_hashes": {
+    "manifest.json": "504857cb9b41df3a61697f30ad8072a00e1219b8370194e88f5bfb78f6168370",
+    "pooled_features.npz": "2b5c2a3c9db1b41227ef816e0d4dfc94c8a8facfadb4f94702ff599ec03f6263",
+    "query_index.jsonl": "0229a9ee40a2c488ed721821c17d3a6e1939282d5ffcf4feb9efedb1fc5abf55"
+  }
+}

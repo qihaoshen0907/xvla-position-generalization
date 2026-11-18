@@ -1,0 +1,7 @@
+{
+  "samples": 400,
+  "embeddings": 108,
+  "no_pca": true,
+  "features": 6,
+  "source_unchanged": true
+}

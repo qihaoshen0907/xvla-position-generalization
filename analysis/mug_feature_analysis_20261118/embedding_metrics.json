@@ -1,0 +1,1082 @@
+[
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9636547464239271,
+    "high_low_neighbor_overlap_k10": 0.6919999999999998,
+    "embedded_same_outcome_neighbor_fraction": 0.83475,
+    "seconds": 0.536879694000163
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9617444733420026,
+    "high_low_neighbor_overlap_k10": 0.6890000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.83475,
+    "seconds": 0.5055005980002534
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9610396618985696,
+    "high_low_neighbor_overlap_k10": 0.691,
+    "embedded_same_outcome_neighbor_fraction": 0.8285,
+    "seconds": 0.5045361200000116
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9661534460338101,
+    "high_low_neighbor_overlap_k10": 0.6855,
+    "embedded_same_outcome_neighbor_fraction": 0.83025,
+    "seconds": 0.6224972989994058
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9650936280884266,
+    "high_low_neighbor_overlap_k10": 0.70125,
+    "embedded_same_outcome_neighbor_fraction": 0.83825,
+    "seconds": 0.6225350570002774
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9656092327698309,
+    "high_low_neighbor_overlap_k10": 0.7155000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8455,
+    "seconds": 0.6471711929998492
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9547880364109232,
+    "high_low_neighbor_overlap_k10": 0.6917500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8115,
+    "seconds": 0.7180983469997955
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.955354356306892,
+    "high_low_neighbor_overlap_k10": 0.6797500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.818,
+    "seconds": 0.6892102599995269
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9537834850455137,
+    "high_low_neighbor_overlap_k10": 0.679,
+    "embedded_same_outcome_neighbor_fraction": 0.835,
+    "seconds": 0.6901176530000157
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9607041612483745,
+    "high_low_neighbor_overlap_k10": 0.67,
+    "embedded_same_outcome_neighbor_fraction": 0.8175,
+    "seconds": 6.134678043000349
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9623159947984395,
+    "high_low_neighbor_overlap_k10": 0.6764999999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.824,
+    "seconds": 0.3056202249999842
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9594590377113134,
+    "high_low_neighbor_overlap_k10": 0.66375,
+    "embedded_same_outcome_neighbor_fraction": 0.81975,
+    "seconds": 0.30495431600047596
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9548745123537061,
+    "high_low_neighbor_overlap_k10": 0.6355,
+    "embedded_same_outcome_neighbor_fraction": 0.8025,
+    "seconds": 0.39279368900042755
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9570474642392718,
+    "high_low_neighbor_overlap_k10": 0.6457499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.81125,
+    "seconds": 0.3932370850006919
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9565039011703511,
+    "high_low_neighbor_overlap_k10": 0.635,
+    "embedded_same_outcome_neighbor_fraction": 0.807,
+    "seconds": 0.3911101880003116
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9516274382314694,
+    "high_low_neighbor_overlap_k10": 0.6150000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.7925,
+    "seconds": 0.4586281980000422
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9500019505851756,
+    "high_low_neighbor_overlap_k10": 0.6075,
+    "embedded_same_outcome_neighbor_fraction": 0.8025,
+    "seconds": 0.4569977020000806
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9462139141742523,
+    "high_low_neighbor_overlap_k10": 0.5954999999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.78725,
+    "seconds": 0.45763379500021983
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.996148244473342,
+    "high_low_neighbor_overlap_k10": 0.79375,
+    "embedded_same_outcome_neighbor_fraction": 0.87125,
+    "seconds": 0.45180940400041436
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9961144343302991,
+    "high_low_neighbor_overlap_k10": 0.79375,
+    "embedded_same_outcome_neighbor_fraction": 0.871,
+    "seconds": 0.4751611359997696
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.996018855656697,
+    "high_low_neighbor_overlap_k10": 0.7927500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.87075,
+    "seconds": 0.4760975680001138
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9969934980494148,
+    "high_low_neighbor_overlap_k10": 0.8122500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8745,
+    "seconds": 0.5219367050003711
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9969960988296489,
+    "high_low_neighbor_overlap_k10": 0.8145,
+    "embedded_same_outcome_neighbor_fraction": 0.87425,
+    "seconds": 0.47319916099968395
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9969518855656697,
+    "high_low_neighbor_overlap_k10": 0.8142500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8745,
+    "seconds": 0.5347982490002323
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9969921976592978,
+    "high_low_neighbor_overlap_k10": 0.8200000000000002,
+    "embedded_same_outcome_neighbor_fraction": 0.87475,
+    "seconds": 0.4160247649997473
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9971287386215865,
+    "high_low_neighbor_overlap_k10": 0.82025,
+    "embedded_same_outcome_neighbor_fraction": 0.87525,
+    "seconds": 0.6168180149998079
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.997111833550065,
+    "high_low_neighbor_overlap_k10": 0.8197500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.875,
+    "seconds": 0.5924163270001372
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9941638491547464,
+    "high_low_neighbor_overlap_k10": 0.7567499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.86925,
+    "seconds": 0.3044007219996274
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9944564369310793,
+    "high_low_neighbor_overlap_k10": 0.7505000000000002,
+    "embedded_same_outcome_neighbor_fraction": 0.866,
+    "seconds": 0.3074458880000748
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9944993498049415,
+    "high_low_neighbor_overlap_k10": 0.743,
+    "embedded_same_outcome_neighbor_fraction": 0.86675,
+    "seconds": 0.30225931799941463
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9946690507152146,
+    "high_low_neighbor_overlap_k10": 0.7647499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.86925,
+    "seconds": 0.3905768260001423
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9950591677503251,
+    "high_low_neighbor_overlap_k10": 0.76375,
+    "embedded_same_outcome_neighbor_fraction": 0.8745,
+    "seconds": 0.38610662300015974
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9941579973992197,
+    "high_low_neighbor_overlap_k10": 0.7567500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.87525,
+    "seconds": 0.3911074510006074
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9944941482444734,
+    "high_low_neighbor_overlap_k10": 0.76275,
+    "embedded_same_outcome_neighbor_fraction": 0.8725,
+    "seconds": 0.4526235490002364
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9947932379713914,
+    "high_low_neighbor_overlap_k10": 0.7635,
+    "embedded_same_outcome_neighbor_fraction": 0.879,
+    "seconds": 0.4528228829994987
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9943771131339402,
+    "high_low_neighbor_overlap_k10": 0.76125,
+    "embedded_same_outcome_neighbor_fraction": 0.8745,
+    "seconds": 0.4467841289997523
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9873296488946685,
+    "high_low_neighbor_overlap_k10": 0.75125,
+    "embedded_same_outcome_neighbor_fraction": 0.84725,
+    "seconds": 0.47748718700040627
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9874135240572172,
+    "high_low_neighbor_overlap_k10": 0.7495,
+    "embedded_same_outcome_neighbor_fraction": 0.846,
+    "seconds": 0.5161614210001062
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9861358907672302,
+    "high_low_neighbor_overlap_k10": 0.7467500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.84525,
+    "seconds": 0.47801524699934816
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9891918075422627,
+    "high_low_neighbor_overlap_k10": 0.77375,
+    "embedded_same_outcome_neighbor_fraction": 0.83125,
+    "seconds": 0.5777792250000857
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9866267880364109,
+    "high_low_neighbor_overlap_k10": 0.7545000000000002,
+    "embedded_same_outcome_neighbor_fraction": 0.82675,
+    "seconds": 0.5789541859994642
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9882373211963589,
+    "high_low_neighbor_overlap_k10": 0.77075,
+    "embedded_same_outcome_neighbor_fraction": 0.8465,
+    "seconds": 0.5814231169997583
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9825370611183355,
+    "high_low_neighbor_overlap_k10": 0.74075,
+    "embedded_same_outcome_neighbor_fraction": 0.835,
+    "seconds": 0.574314391000371
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9836170351105331,
+    "high_low_neighbor_overlap_k10": 0.7510000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.83075,
+    "seconds": 0.6110287490000701
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9809928478543564,
+    "high_low_neighbor_overlap_k10": 0.7422500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8125,
+    "seconds": 0.6103320760003044
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9819954486345904,
+    "high_low_neighbor_overlap_k10": 0.7105000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.82625,
+    "seconds": 0.3065404269991632
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9833940182054617,
+    "high_low_neighbor_overlap_k10": 0.716,
+    "embedded_same_outcome_neighbor_fraction": 0.82275,
+    "seconds": 0.3008141070004058
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9836579973992198,
+    "high_low_neighbor_overlap_k10": 0.7192500000000002,
+    "embedded_same_outcome_neighbor_fraction": 0.819,
+    "seconds": 0.30329144899951643
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9807438231469441,
+    "high_low_neighbor_overlap_k10": 0.6955000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.7995,
+    "seconds": 0.3829226620000554
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9812737321196359,
+    "high_low_neighbor_overlap_k10": 0.7032500000000002,
+    "embedded_same_outcome_neighbor_fraction": 0.8055,
+    "seconds": 0.3892939450006452
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9793920676202861,
+    "high_low_neighbor_overlap_k10": 0.6880000000000002,
+    "embedded_same_outcome_neighbor_fraction": 0.80775,
+    "seconds": 0.38403988700065383
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9682652795838752,
+    "high_low_neighbor_overlap_k10": 0.672,
+    "embedded_same_outcome_neighbor_fraction": 0.80025,
+    "seconds": 0.45550088999971194
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.970649544863459,
+    "high_low_neighbor_overlap_k10": 0.63625,
+    "embedded_same_outcome_neighbor_fraction": 0.789,
+    "seconds": 0.45076342500033206
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9750260078023407,
+    "high_low_neighbor_overlap_k10": 0.6759999999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.8015,
+    "seconds": 0.45595921000040107
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9937067620286086,
+    "high_low_neighbor_overlap_k10": 0.76725,
+    "embedded_same_outcome_neighbor_fraction": 0.8555,
+    "seconds": 0.44660894600019674
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9937639791937581,
+    "high_low_neighbor_overlap_k10": 0.76775,
+    "embedded_same_outcome_neighbor_fraction": 0.85625,
+    "seconds": 0.4614187219995074
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9937314694408322,
+    "high_low_neighbor_overlap_k10": 0.7685000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8555,
+    "seconds": 0.4529545589994086
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9945045513654096,
+    "high_low_neighbor_overlap_k10": 0.7742500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.855,
+    "seconds": 0.5282796390001749
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9944629388816645,
+    "high_low_neighbor_overlap_k10": 0.7730000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.85525,
+    "seconds": 0.5285592959999121
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9945312093628088,
+    "high_low_neighbor_overlap_k10": 0.774,
+    "embedded_same_outcome_neighbor_fraction": 0.85525,
+    "seconds": 0.4983848379997653
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9934908972691807,
+    "high_low_neighbor_overlap_k10": 0.774,
+    "embedded_same_outcome_neighbor_fraction": 0.857,
+    "seconds": 0.471283799000048
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9950279583875162,
+    "high_low_neighbor_overlap_k10": 0.77125,
+    "embedded_same_outcome_neighbor_fraction": 0.855,
+    "seconds": 0.5103124679999382
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.995055266579974,
+    "high_low_neighbor_overlap_k10": 0.77225,
+    "embedded_same_outcome_neighbor_fraction": 0.85625,
+    "seconds": 0.478475496000101
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9931072821846554,
+    "high_low_neighbor_overlap_k10": 0.74875,
+    "embedded_same_outcome_neighbor_fraction": 0.8485,
+    "seconds": 0.30097963200023514
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9923036410923277,
+    "high_low_neighbor_overlap_k10": 0.7452500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.852,
+    "seconds": 0.30292819399983273
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9926788036410923,
+    "high_low_neighbor_overlap_k10": 0.7432499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.84425,
+    "seconds": 0.30028836900055467
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9925611183355006,
+    "high_low_neighbor_overlap_k10": 0.7277499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.84075,
+    "seconds": 0.38628567900013877
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9917178153446033,
+    "high_low_neighbor_overlap_k10": 0.7144999999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.835,
+    "seconds": 0.3810947359997954
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9916612483745123,
+    "high_low_neighbor_overlap_k10": 0.71475,
+    "embedded_same_outcome_neighbor_fraction": 0.841,
+    "seconds": 0.38684469199961313
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9900734720416124,
+    "high_low_neighbor_overlap_k10": 0.6990000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.833,
+    "seconds": 0.44604690999949526
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9920936280884265,
+    "high_low_neighbor_overlap_k10": 0.7215,
+    "embedded_same_outcome_neighbor_fraction": 0.84475,
+    "seconds": 0.4506309560001682
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9907015604681404,
+    "high_low_neighbor_overlap_k10": 0.70975,
+    "embedded_same_outcome_neighbor_fraction": 0.83175,
+    "seconds": 0.4434197119999226
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9930786736020806,
+    "high_low_neighbor_overlap_k10": 0.77575,
+    "embedded_same_outcome_neighbor_fraction": 0.8345,
+    "seconds": 0.5150504209996143
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9927568270481144,
+    "high_low_neighbor_overlap_k10": 0.77625,
+    "embedded_same_outcome_neighbor_fraction": 0.83825,
+    "seconds": 0.510648116000084
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9930845253576073,
+    "high_low_neighbor_overlap_k10": 0.77575,
+    "embedded_same_outcome_neighbor_fraction": 0.835,
+    "seconds": 0.5312276249997012
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9925539661898569,
+    "high_low_neighbor_overlap_k10": 0.7859999999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.82525,
+    "seconds": 0.5551869480004825
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9936573472041612,
+    "high_low_neighbor_overlap_k10": 0.782,
+    "embedded_same_outcome_neighbor_fraction": 0.81875,
+    "seconds": 0.5788168539993421
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9929375812743824,
+    "high_low_neighbor_overlap_k10": 0.794,
+    "embedded_same_outcome_neighbor_fraction": 0.823,
+    "seconds": 0.5832158120001623
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9876014304291287,
+    "high_low_neighbor_overlap_k10": 0.7595000000000002,
+    "embedded_same_outcome_neighbor_fraction": 0.81575,
+    "seconds": 0.5551099630001772
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9933498049414824,
+    "high_low_neighbor_overlap_k10": 0.7877500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.81775,
+    "seconds": 0.6250754920001782
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9938868660598179,
+    "high_low_neighbor_overlap_k10": 0.7867500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.81875,
+    "seconds": 0.5205900880000627
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9907145643693108,
+    "high_low_neighbor_overlap_k10": 0.7375,
+    "embedded_same_outcome_neighbor_fraction": 0.81375,
+    "seconds": 0.3069011709994811
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9917028608582574,
+    "high_low_neighbor_overlap_k10": 0.7444999999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.82225,
+    "seconds": 0.30170903300040663
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9917730819245774,
+    "high_low_neighbor_overlap_k10": 0.7390000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.82075,
+    "seconds": 0.3051654259998031
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9888270481144343,
+    "high_low_neighbor_overlap_k10": 0.71625,
+    "embedded_same_outcome_neighbor_fraction": 0.80325,
+    "seconds": 0.38416668999980175
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.989165799739922,
+    "high_low_neighbor_overlap_k10": 0.7260000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.80925,
+    "seconds": 0.3899982679995446
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9893205461638491,
+    "high_low_neighbor_overlap_k10": 0.72275,
+    "embedded_same_outcome_neighbor_fraction": 0.80775,
+    "seconds": 0.38847602300029394
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9891970091027308,
+    "high_low_neighbor_overlap_k10": 0.7197499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.80475,
+    "seconds": 0.45780940399981773
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9892392717815345,
+    "high_low_neighbor_overlap_k10": 0.7115,
+    "embedded_same_outcome_neighbor_fraction": 0.79975,
+    "seconds": 0.4485385469997709
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9895110533159948,
+    "high_low_neighbor_overlap_k10": 0.7155000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8105,
+    "seconds": 0.49625487699995574
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9928075422626788,
+    "high_low_neighbor_overlap_k10": 0.7665000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.826,
+    "seconds": 0.5225938730000053
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9928901170351105,
+    "high_low_neighbor_overlap_k10": 0.767,
+    "embedded_same_outcome_neighbor_fraction": 0.831,
+    "seconds": 0.4920464240003639
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9930520156046814,
+    "high_low_neighbor_overlap_k10": 0.7655000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.82675,
+    "seconds": 0.468522731000121
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9936710013003901,
+    "high_low_neighbor_overlap_k10": 0.775,
+    "embedded_same_outcome_neighbor_fraction": 0.82025,
+    "seconds": 0.5311827859995901
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.9925533159947985,
+    "high_low_neighbor_overlap_k10": 0.7655000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.816,
+    "seconds": 0.5920833199998015
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9932080624187256,
+    "high_low_neighbor_overlap_k10": 0.7830000000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8185,
+    "seconds": 0.5794600709996303
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9924278283485045,
+    "high_low_neighbor_overlap_k10": 0.76375,
+    "embedded_same_outcome_neighbor_fraction": 0.81375,
+    "seconds": 0.6471107870002015
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9932399219765929,
+    "high_low_neighbor_overlap_k10": 0.76875,
+    "embedded_same_outcome_neighbor_fraction": 0.8125,
+    "seconds": 0.6789116039999499
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9935474642392718,
+    "high_low_neighbor_overlap_k10": 0.7845,
+    "embedded_same_outcome_neighbor_fraction": 0.81575,
+    "seconds": 0.6224320860001171
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 15,
+    "seed": 0,
+    "trustworthiness_k10": 0.9910071521456437,
+    "high_low_neighbor_overlap_k10": 0.73,
+    "embedded_same_outcome_neighbor_fraction": 0.817,
+    "seconds": 0.3025777390002986
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 15,
+    "seed": 1,
+    "trustworthiness_k10": 0.9906358907672301,
+    "high_low_neighbor_overlap_k10": 0.7347499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.81275,
+    "seconds": 0.30520993800018914
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 15,
+    "seed": 2,
+    "trustworthiness_k10": 0.9921749024707412,
+    "high_low_neighbor_overlap_k10": 0.74125,
+    "embedded_same_outcome_neighbor_fraction": 0.80975,
+    "seconds": 0.3007806129999153
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 30,
+    "seed": 0,
+    "trustworthiness_k10": 0.9910890767230169,
+    "high_low_neighbor_overlap_k10": 0.726,
+    "embedded_same_outcome_neighbor_fraction": 0.8095,
+    "seconds": 0.3890067700003783
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 30,
+    "seed": 1,
+    "trustworthiness_k10": 0.990444733420026,
+    "high_low_neighbor_overlap_k10": 0.7302500000000001,
+    "embedded_same_outcome_neighbor_fraction": 0.8045,
+    "seconds": 0.3851369659996635
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 30,
+    "seed": 2,
+    "trustworthiness_k10": 0.9895214564369311,
+    "high_low_neighbor_overlap_k10": 0.7225,
+    "embedded_same_outcome_neighbor_fraction": 0.80875,
+    "seconds": 0.389361232999363
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 50,
+    "seed": 0,
+    "trustworthiness_k10": 0.9884681404421326,
+    "high_low_neighbor_overlap_k10": 0.7025,
+    "embedded_same_outcome_neighbor_fraction": 0.795,
+    "seconds": 0.44877465100034897
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 50,
+    "seed": 1,
+    "trustworthiness_k10": 0.9888641092327698,
+    "high_low_neighbor_overlap_k10": 0.7042499999999999,
+    "embedded_same_outcome_neighbor_fraction": 0.8065,
+    "seconds": 0.46126979299970117
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "parameter": 50,
+    "seed": 2,
+    "trustworthiness_k10": 0.9895598179453836,
+    "high_low_neighbor_overlap_k10": 0.7125,
+    "embedded_same_outcome_neighbor_fraction": 0.7955,
+    "seconds": 0.4541977400003816
+  }
+]

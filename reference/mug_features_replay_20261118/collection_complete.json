@@ -1,0 +1,14 @@
+{
+  "episodes": 400,
+  "queries": 5526,
+  "bytes": 12631599213,
+  "all_passed": true,
+  "max_errors": {
+    "eef_m": 0.0,
+    "mug_qpos_m": 0.0,
+    "mug_body_m": 0.0,
+    "speed_m_s": 0.0,
+    "action": 0.0,
+    "hook_action": 0.0
+  }
+}

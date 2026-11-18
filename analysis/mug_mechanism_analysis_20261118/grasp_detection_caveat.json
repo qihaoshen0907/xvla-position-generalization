@@ -1,0 +1,18 @@
+{
+  "0": {
+    "no_grasp_detection": 1,
+    "no_grasp_detection_but_object_lift": 1
+  },
+  "1": {
+    "no_grasp_detection": 22,
+    "no_grasp_detection_but_object_lift": 2
+  },
+  "2": {
+    "no_grasp_detection": 49,
+    "no_grasp_detection_but_object_lift": 7
+  },
+  "3": {
+    "no_grasp_detection": 73,
+    "no_grasp_detection_but_object_lift": 11
+  }
+}

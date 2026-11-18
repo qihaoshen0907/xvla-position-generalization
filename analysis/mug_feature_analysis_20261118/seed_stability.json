@@ -1,0 +1,110 @@
+[
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.7767499999999999,
+      0.76875,
+      0.8059999999999999
+    ]
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.9905000000000002,
+      0.99125,
+      0.9939999999999999
+    ]
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.8497499999999999,
+      0.8675000000000002,
+      0.8767500000000001
+    ]
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.9887500000000001,
+      0.991,
+      0.99275
+    ]
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.9055000000000001,
+      0.9119999999999999,
+      0.919
+    ]
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.9212500000000001,
+      0.9127500000000001,
+      0.9092500000000001
+    ]
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.8142500000000001,
+      0.7912500000000001,
+      0.807
+    ]
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.8707500000000001,
+      0.8747500000000001,
+      0.8752500000000001
+    ]
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.8369999999999999,
+      0.8207500000000002,
+      0.8072500000000001
+    ]
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.8284999999999999,
+      0.8425,
+      0.8305000000000001
+    ]
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.8385000000000002,
+      0.84375,
+      0.8447500000000001
+    ]
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "seed_pair_neighbor_overlap_k10": [
+      0.8545,
+      0.85125,
+      0.8605000000000002
+    ]
+  }
+]

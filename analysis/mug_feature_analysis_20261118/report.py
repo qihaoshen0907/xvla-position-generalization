@@ -1,0 +1,30 @@
+import os
+from pathlib import Path
+import json,numpy as np
+from scipy.spatial.distance import cdist
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+P=Path(__file__).resolve().parent;data=np.load(P/'sample_labels.npz');y=data['success'];xy=(data['xy_m']-[-.1,-.15])*100;rings=data['ring'];D=cdist(xy,xy);np.fill_diagonal(D,np.inf);nn=np.argsort(D,axis=1)[:,:10];physical=float(np.mean(y[:,None]==y[nn]))
+h=json.loads((P/'high_dimensional_diagnostics.json').read_text());m=json.loads((P/'embedding_metrics.json').read_text());s=json.loads((P/'seed_stability.json').read_text())
+summary={'physical_xy_same_outcome_neighbor_fraction':physical,'main_tsne_trustworthiness_range':[min(v['trustworthiness_k10'] for v in m if v['method']=='tsne' and v['parameter']==30 and v['seed']==0),max(v['trustworthiness_k10'] for v in m if v['method']=='tsne' and v['parameter']==30 and v['seed']==0)],'main_tsne_neighbor_recall_range':[min(v['high_low_neighbor_overlap_k10'] for v in m if v['method']=='tsne' and v['parameter']==30 and v['seed']==0),max(v['high_low_neighbor_overlap_k10'] for v in m if v['method']=='tsne' and v['parameter']==30 and v['seed']==0)]}
+(P/'summary.json').write_text(json.dumps(summary,indent=2))
+fig,axs=plt.subplots(2,4,figsize=(16,8),layout='constrained')
+for row,(key,name) in enumerate([('fusion_visual_mean','Fused vision'),('block_23_all_mean','Action block 23')]):
+ Y=np.load(P/f'tsne__{key}__p30__s0.npy')
+ for v,c,mk in [(False,'#d44848','x'),(True,'#168567','o')]:axs[row,0].scatter(Y[y==v,0],Y[y==v,1],c=c,marker=mk,s=15,label='Success' if v else 'Failure')
+ sc=axs[row,1].scatter(Y[:,0],Y[:,1],c=rings,cmap=matplotlib.colors.ListedColormap(['#2580bb','#23a58b','#e89832','#9b63bd']),vmin=-.5,vmax=3.5,s=15);fig.colorbar(sc,ax=axs[row,1],ticks=[0,1,2,3],shrink=.7,label='Ring index (0=default)')
+ for col,coord in [(2,0),(3,1)]:
+  sc=axs[row,col].scatter(Y[:,0],Y[:,1],c=xy[:,coord],cmap='coolwarm',vmin=-10,vmax=10,s=15);fig.colorbar(sc,ax=axs[row,col],shrink=.7,label='cm')
+ axs[row,0].set_ylabel(name)
+ for ax in axs[row]:ax.set_xticks([]);ax.set_yticks([])
+for ax,title in zip(axs[0],['Final outcome','Sampling region','Initial X','Initial Y']):ax.set_title(title)
+axs[0,0].legend(loc='best');fig.suptitle('t-SNE: same coordinates, different labels | perplexity=30, seed=0\nPosition and outcome are confounded; this is not a causal separation')
+fig.savefig(P/'tsne_outcome_position_comparison.png',dpi=180);plt.close(fig)
+lines=['# 首次推理内部特征：t-SNE为主，UMAP对照','', '完成400条轨迹首次推理的分析：133成功、267失败，每条轨迹1个点。6组特征×2种方法×3组参数×3个随机种子，共108个嵌入。未使用PCA。','', '输入是之前保存的均值池化1024维特征，逐向量L2归一化，使用欧氏距离；对单位向量，欧氏距离的近邻排序等价于余弦距离。每组特征分别拟合，不比较不同面板的坐标轴或簇间距离。未使用标签拟合嵌入。','', '主图参数在运行前固定为30、seed0。t-SNE perplexity=15/30/50，随机初始化、1500迭代；UMAP n_neighbors=15/30/50、min_dist=.1、随机初始化、500epochs；种子0/1/2。完整设置与版本见config.json。','', '## 主要观察','', '成功/失败在若干局部邻域有聚集，并非完全分离。位置着色显示这些结构同时与初始杯子位置相关。首次推理的机器人状态和语言匹配，标签是未来整条轨迹的结果，不是当前失败事件。','', f'仅使用真实初始XY的10近邻，同结果邻居比例已达到{physical:.1%}，因此不能把内部特征的同结果聚集直接解释为独立的失败机制。这个量是描述性邻域统计，不是分类准确率，也不是留出测试成绩。','', '| 特征 | 高维同结果近邻比例 | 环内标签打乱均值 | 特征近邻的位置距离 | 特征距离与位置距离Spearman |','|---|---:|---:|---:|---:|']
+for x in h:lines.append(f'| {x["feature"]} | {x["same_outcome_neighbor_fraction"]:.1%} | {x["within_ring_shuffle_mean"]:.1%} | {x["neighbor_position_distance_cm"]:.2f} cm | {x["feature_vs_position_distance_spearman"]:.3f} |')
+lines+=['', '全部样本对的平均位置距离为8.40cm；特征近邻对应位置平均相距1.41–2.24cm。视觉到动作各阶段均保留与位置相关的结构，但这不证明位置被准确解码或被控制策略正确利用。','', '环内置换：固定每环成功/失败数，在每环内打乱标签1000次，保留原高维10近邻图。所有特征的观测同结果邻居比例高于环内置换均值，单侧经验p=1/1001（未作多重比较校正）。这仅排除“只有粗分环标签”的解释，未控制环内连续XY、遮挡或其他视觉变化，不作为因果证据。成对距离相关也仅作为描述统计，不把样本对当独立实验做显著性检验。','', '## 二维保真度与稳定性','', '| 特征 | t-SNE主图trustworthiness@10 | 高维10近邻保留率 | t-SNE不同种子近邻重叠范围（参数30） |','|---|---:|---:|---:|']
+for x in h:
+ a=next(v for v in m if v['feature']==x['feature'] and v['method']=='tsne' and v['parameter']==30 and v['seed']==0);b=next(v for v in s if v['feature']==x['feature'] and v['method']=='tsne')['seed_pair_neighbor_overlap_k10'];lines.append(f'| {x["feature"]} | {a["trustworthiness_k10"]:.3f} | {a["high_low_neighbor_overlap_k10"]:.1%} | {min(b):.1%}–{max(b):.1%} |')
+lines+=['', 'trustworthiness高不等于二维保留所有信息；主图近邻保留率约68.5%–81.2%。主视角布局对随机种子更敏感，不能解读某个具体孤岛的形状。参数与种子扫描结果全部保留，未挑选分离最明显的图。','', '## 文件','', '- tsne_outcome.png/.pdf：6组特征按结果着色主图。','- umap_outcome.png/.pdf：UMAP对照。','- tsne_outcome_position_comparison.png：融合视觉与动作末层同坐标的结果、环、X、Y对照。','- tsne_position_context.png、umap_position_context.png：全部6组的位置对照。','- *_robustness_*.png：融合视觉和动作末层的3参数×3种子网格。','- *.npy：108组嵌入坐标，400行顺序与samples.json一致。','- embedding_metrics.json、seed_stability.json：全量保真度、近邻保留与种子稳定性。','- high_dimensional_diagnostics.json：原始高维邻域及置换对照。','', '本轮仅完成首次推理的探索性降维与邻域分析，未训练成功预测器或位置探针，未分析完整时间演化，未进行因果干预。下一步宜匹配更接近的XY位置并按失败阶段对比，检查特征差异是否超过位置本身的解释。']
+(P/'README.md').write_text('\n'.join(lines)+'\n');print(json.dumps(summary,indent=2))

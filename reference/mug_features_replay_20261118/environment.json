@@ -1,0 +1,29 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "torch": "2.7.1",
+    "numpy": "2.2.6",
+    "mujoco": "3.3.2",
+    "robosuite": "1.4.0",
+    "transformers": "5.5.4",
+    "h5py": "3.16.0"
+  },
+  "source_hashes": {
+    "xvla_local_test/mug_features_replay_20261118/prepare.py": "4e3f2d637b8239eab454fa0b409a7d35f508f76c3aa8b002e6ba57d0f60a7d89",
+    "xvla_local_test/mug_features_replay_20261118/finalize.py": "93ed42e3625d1fd8d459b195bfe56f6e6e2649ccfc460376b94bc7b81f3a2723",
+    "xvla_local_test/mug_features_replay_20261118/model.py": "f4d3df7fcdad7c72f605bd30b8d0c4b6b9fc952936dc2adf82227bfc1fcea63f",
+    "xvla_local_test/mug_features_replay_20261118/read_features.py": "88ecf6890840d08bd626bcee4d81f9a92bc29960a96fdadb90b16bf816f3c2fc",
+    "xvla_local_test/mug_features_replay_20261118/collect.py": "b6d717fd5a5c436ac79d7fc5fcca34976ee249b80609281e9ee29080a18bfa8d",
+    "xvla_local_test/mug_features_replay_20261118/common.py": "1bef849b58cc9db9da0a09586a5986c586d3ce51218d740a2fb93fc7d9ac9506",
+    "xvla_local_test/vendor/lerobot/src/lerobot/policies/xvla/modeling_xvla.py": "04a34edea38b6404ed7ad6b692c84e51b05278cd3bcac6565571cc2bfde81325",
+    "xvla_local_test/vendor/lerobot/src/lerobot/policies/xvla/soft_transformer.py": "92da48b75f7ba14583fe2be89f9eb15157361252084ae18643e279648db817cc",
+    "xvla_local_test/vendor/lerobot/src/lerobot/policies/xvla/action_hub.py": "86357301855bf28a27e2e7a8a0f6b79264a915786a94a2232b152cff586cf9bf",
+    "xvla_local_test/vendor/lerobot/src/lerobot/policies/xvla/processor_xvla.py": "2c4cabb2f3668b3587626061a8b30e709cd38e43b6432de00b0deee81e11ed95",
+    "xvla_local_test/libero_max_lite_20261115/runner_local.py": "4860c0d1a6d1778ad053355fe757614b057a0e36661befeebcdf5981e23ee04e",
+    "xvla_local_test/checkpoint/config.json": "db9ff1de61760910dcc5d355528346144d6a80687212c8600cf31207f0f5e010"
+  },
+  "checkpoint_revision": "12e8783e996944f5c97e490d37d4c145484ed70a",
+  "checkpoint_sha256": "2a0e29448111df56b9485cb1f964db799205794c49baeda48ef960589ce649ab",
+  "dtype": "bfloat16",
+  "adapter_loaded": false
+}
