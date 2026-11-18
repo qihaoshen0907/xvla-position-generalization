@@ -36,17 +36,15 @@
 - [中文动作响应图](analysis/mug_mechanism_analysis_20261118/action_response_zh.png)
 - [中文位置着色对照](analysis/mug_feature_analysis_20261118/tsne_outcome_position_comparison_zh.png)
 
-## 首次闭合与纠偏分析更新
+## 首次夹爪闭合前后的 t-SNE
 
-- [事件对齐：首次闭合、抓持检测丢失后的再推理与纠偏](analysis/mug_correction_analysis_20261118/README.md)
-- [首次闭合前后特征的 t-SNE](analysis/mug_close_embedding_20261118/README.md)
-- [未检测抓持样本：位置相近的成功／失败配对](analysis/mug_close_matched_20261118/README.md)
+分析400条轨迹首次夹爪闭合前一次、闭合后前三次推理的腕部视觉、融合视觉和动作末层特征，共1,578个推理点。每行各时刻共享同一降维坐标；绿色为最终成功，黄色为观察窗口内出现持续抓持但最终失败，红色为窗口内无新持续抓持且最终失败。
 
-最新配对分析筛选出275条轨迹（46成功、229失败）。在1cm水平距离限制下，按初始杯子位置得到22对，按推理时杯子位置得到8对，一对一且不重复使用轨迹。初始位置配对虽有特征差异，但推理时杯子XY差中位数已达7.37cm；不能当作状态相近的比较。按推理时位置配对后，仅8对，尚不足以支持稳定区分成功与失败的结论。抓持检测为假不等于物理上完全没有抓住或搬动杯子。
+![首次夹爪闭合前后的中文 t-SNE](analysis/mug_close_embedding_20261118/close_stages_seed0_zh.png)
 
-![位置配对后的中文 t-SNE](analysis/mug_close_matched_20261118/matched_tsne_seed0_zh.png)
+闭合指首次闭合命令，不代表物理接触完成。第三次后续推理有378条轨迹；位置、当前抓持状态和任务阶段均可能影响分群，不能仅凭二维分离判断纠偏能力。
 
-新增目录包含中文PNG/PDF、分析代码、事件指标、配对名单和二维坐标。完整隐藏特征仍未公开。新增的 `analyze.py` 需要完整特征数据，使用 `XVLA_DATA_DIR` 指定数据目录；仅浏览报告与图表无需这些数据。纠偏分析目录的 `plots.py` 可直接使用已公开的统计结果重绘。
+[查看完整分析报告与方法](analysis/mug_close_embedding_20261118/README.md)
 
 ## 本次公开内容
 
