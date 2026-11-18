@@ -1,0 +1,58 @@
+[
+  {
+    "level": 0,
+    "recent_open_command": false,
+    "n": 15,
+    "stable_grasp_by90": 12,
+    "final_successes": 6
+  },
+  {
+    "level": 0,
+    "recent_open_command": true,
+    "n": 2,
+    "stable_grasp_by90": 2,
+    "final_successes": 1
+  },
+  {
+    "level": 1,
+    "recent_open_command": false,
+    "n": 27,
+    "stable_grasp_by90": 10,
+    "final_successes": 3
+  },
+  {
+    "level": 1,
+    "recent_open_command": true,
+    "n": 12,
+    "stable_grasp_by90": 6,
+    "final_successes": 3
+  },
+  {
+    "level": 2,
+    "recent_open_command": false,
+    "n": 23,
+    "stable_grasp_by90": 10,
+    "final_successes": 2
+  },
+  {
+    "level": 2,
+    "recent_open_command": true,
+    "n": 18,
+    "stable_grasp_by90": 13,
+    "final_successes": 0
+  },
+  {
+    "level": 3,
+    "recent_open_command": false,
+    "n": 3,
+    "stable_grasp_by90": 3,
+    "final_successes": 0
+  },
+  {
+    "level": 3,
+    "recent_open_command": true,
+    "n": 23,
+    "stable_grasp_by90": 19,
+    "final_successes": 0
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "episodes": 400,
+  "close_events": 400,
+  "far_loss_events": 123,
+  "aligned_event_query_rows": 2070,
+  "unique_event_query_keys_verified": true,
+  "no_simulation_run": true,
+  "source_hashes": {
+    "manifest.json": "504857cb9b41df3a61697f30ad8072a00e1219b8370194e88f5bfb78f6168370",
+    "query_index.jsonl": "0229a9ee40a2c488ed721821c17d3a6e1939282d5ffcf4feb9efedb1fc5abf55",
+    "pooled_features.npz": "2b5c2a3c9db1b41227ef816e0d4dfc94c8a8facfadb4f94702ff599ec03f6263"
+  }
+}

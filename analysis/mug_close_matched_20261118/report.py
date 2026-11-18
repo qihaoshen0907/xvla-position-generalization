@@ -1,0 +1,73 @@
+import os
+import json, hashlib
+from pathlib import Path
+import numpy as np
+P=Path(__file__).resolve().parent
+s=json.loads((P/'summary.json').read_text())
+text='''# 未检测抓持样本的成功／失败位置配对分析
+
+## 结论
+
+初始位置相近的样本仍能显示特征与结果的关联，但它们在闭合后已经处于不同物理状态。改按推理时杯子位置匹配后，样本只有8对，降维混合更多；当前数据不能支持“控制当前位置后能够稳定分开”的强结论。这也不是“特征完全没有结果信息”的证明。
+
+## 样本与方法
+
+只取首次夹爪闭合命令之后的第一次推理，要求查询当时抓持检测为假：275条，其中最终成功46条、失败229条，均未达到目标判定。每条轨迹只有一个点。检测为假是接触代理，不等价于物理上完全没有抓住或搬动杯子。
+
+主阈值预设为水平位置距离不超过1cm，分别按初始杯子XY、查询时杯子XY建立两组匹配。使用全局一对一最优匹配，优先最大化配对数量，再最小化总距离，不重复使用轨迹。匹配不使用内部特征，但按最终结果构建成功／失败对；允许跨采样环。0.5cm和2cm只作敏感性检查，不按显著性选择阈值。
+
+三组1024维特征为腕部视觉、融合视觉、动作模块末层的token均值；逐样本L2归一化，无PCA。每个特征层和匹配组单独拟合t-SNE，欧氏距离、随机初始化、自动学习率、1500迭代、种子0和1。22对组perplexity=10，8对组perplexity=5；坐标按配对顺序交替成功、失败。不同面板的距离和方向不可直接比较，小样本t-SNE不能用来证明线性可分。
+
+## 配对质量
+
+| 匹配依据 | 对数 | 初始XY差中位数(cm) | 查询时杯子XY差中位数(cm) | 查询时机械臂XY差中位数(cm) | 杯子高度差中位数(cm) |
+|---|---:|---:|---:|---:|---:|
+'''
+for field,name in [('initial_xy_m','初始位置'),('mug_xyz','推理时位置')]:
+ r=next(x for x in s['analyses'] if x['match_field']==field and x['caliper_cm']==1)
+ pairs=json.loads((P/f'pairs_{field}.json').read_text())
+ ids=[q[which]['id'] for q in pairs for which in ['success','failure']]
+ assert len(set(ids))==2*len(pairs)
+ for p in pairs:
+  assert not p['success']['query_grasped'] and not p['failure']['query_grasped']
+  assert p['success']['episode_success'] and not p['failure']['episode_success']
+  assert np.linalg.norm(np.array(p['success_index'][field][:2])-p['failure_index'][field][:2])*100<=1+1e-8
+ z=np.median([abs(p['success_index']['mug_xyz'][2]-p['failure_index']['mug_xyz'][2])*100 for p in pairs])
+ text+=f"| {name} | {len(pairs)} | {r['median_initial_distance_cm']:.3f} | {r['median_query_cup_distance_cm']:.3f} | {r['median_query_eef_distance_cm']:.3f} | {z:.3f} |\n"
+text+='''
+初始位置匹配组的杯子高度差中位数超过7cm，说明“抓持检测为假”并没有消除搬运阶段等状态差异。推理时位置匹配组也没有控制机械臂位置、杯子姿态、高度、接触历史、查询时间或生成噪声。因此不把剩余特征差异归因为错误识别。
+
+## 高维检查：留一对结果排序
+
+为了不只凭二维图判断，在原始归一化特征中构建每对“成功减失败”的差向量。每次留出一整对，用其余配对的平均差向量作为固定判别方向，再判断留出对的成功样本得分是否高于失败样本。没有调参，没有使用留出对的特征训练方向。这个指标是两者之间的排序正确比例，不是单条轨迹预测准确率，也不是独立外部测试性能。
+
+以固定配对内随机翻转成功／失败标签5000次作为探索性参照，种子195。它以当前匹配为条件，没有重新运行匹配，不解决样本筛选与未控制状态带来的偏差。下表p值未经多重比较校正；不作为因果或总体泛化证据。
+
+| 匹配依据 | 特征 | 正确配对数 | 比例 | 配对翻转p值 |
+|---|---|---:|---:|---:|
+'''
+for r in s['analyses']:
+ if r['caliper_cm']!=1:continue
+ for key,name in [('vision_wrist_mean','腕部视觉'),('fusion_visual_mean','融合视觉'),('block_23_all_mean','动作末层')]:
+  m=r['metrics'][key];text+=f"| {'初始位置' if r['match_field']=='initial_xy_m' else '推理时位置'} | {name} | {m['correct_pairs']}/{m['n_pairs']} | {100*m['leave_one_pair_out_ranking_fraction']:.1f}% | {m['ranking_permutation_p']:.4f} |\n"
+text+='''
+推理时位置匹配下，腕部视觉与动作末层均为7/8，但对应配对翻转p约0.082和0.062；在很小的样本上尚不足以给出稳定区分的结论。融合视觉为5/8。初始位置组19/22的结果不能忽视查询时显著的物理状态差异。
+
+0.5cm阈值时，初始位置/查询时位置分别只有11/6对；2cm时为37/13对。放宽阈值会增加样本，也会放宽位置控制，不能因结果更明显就替代1cm主分析。全部敏感性结果和差向量一致性统计保存在summary.json。
+
+## 文件
+
+- matched_tsne_seed0_zh.png/.pdf：主降维图，绿色成功、红色叉失败，灰线连接匹配对。
+- matched_tsne_seed1_zh.png/.pdf：第二个随机种子。
+- position_matching_zh.png/.pdf：两组配对在初始/查询时位置上的质量检查。
+- highdim_pair_ranking_zh.png/.pdf：原始高维的留一对排序检查。
+- pairs_initial_xy_m.json、pairs_mug_xyz.json：完整样本ID、特征行索引、查询时刻、位置和行为指标。
+- tsne_*.npy：二维坐标；与对应配对文件顺序一致，每对先成功后失败。
+- analyze.py、report.py、summary.json、validation.json：代码、数值结果和检查记录。
+
+运行使用相邻feature_analysis_deps分析依赖目录及.venv/bin/python；先analyze.py后report.py。数据源为已有mug_features_replay_20261118与mug_close_embedding_20261118。本轮没有运行仿真、训练模型或修改源数据。公开内容为代码、图表和数值结果，原始特征数据未发布。
+'''
+(P/'README.md').write_text(text)
+sources=[P.parent/'mug_close_embedding_20261118/samples.json',P.parent/'mug_features_replay_20261118/query_index.jsonl']
+(P/'validation.json').write_text(json.dumps({'eligible':275,'unique_pairs_verified':True,'caliper_verified':True,'labels_and_grasp_filter_verified':True,'source_sha256':{str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in sources}},indent=2))
+print('Report and matching validation complete')

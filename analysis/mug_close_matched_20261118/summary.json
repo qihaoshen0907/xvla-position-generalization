@@ -1,0 +1,230 @@
+{
+  "eligible": 275,
+  "success": 46,
+  "failure": 229,
+  "query_goal_true": 0,
+  "analyses": [
+    {
+      "match_field": "initial_xy_m",
+      "caliper_cm": 0.5,
+      "n_pairs": 11,
+      "metrics": {
+        "vision_wrist_mean": {
+          "n_pairs": 11,
+          "leave_one_pair_out_ranking_fraction": 0.9090909090909091,
+          "correct_pairs": 10,
+          "ranking_permutation_p": 0.010597880423915218,
+          "mean_cross_pair_dot": 0.3591357157812503,
+          "coherence_permutation_p": 0.0021995600879824036,
+          "null_ranking_mean": 0.4964
+        },
+        "fusion_visual_mean": {
+          "n_pairs": 11,
+          "leave_one_pair_out_ranking_fraction": 0.7272727272727273,
+          "correct_pairs": 8,
+          "ranking_permutation_p": 0.20235952809438112,
+          "mean_cross_pair_dot": 0.06882981472990428,
+          "coherence_permutation_p": 0.00599880023995201,
+          "null_ranking_mean": 0.4944181818181818
+        },
+        "block_23_all_mean": {
+          "n_pairs": 11,
+          "leave_one_pair_out_ranking_fraction": 0.9090909090909091,
+          "correct_pairs": 10,
+          "ranking_permutation_p": 0.010597880423915218,
+          "mean_cross_pair_dot": 0.006150538591056728,
+          "coherence_permutation_p": 0.0027994401119776045,
+          "null_ranking_mean": 0.4947636363636364
+        }
+      },
+      "median_initial_distance_cm": 0.3088618455159,
+      "median_query_cup_distance_cm": 10.027959297896883,
+      "median_query_eef_distance_cm": 0.47210577982278146
+    },
+    {
+      "match_field": "initial_xy_m",
+      "caliper_cm": 1.0,
+      "n_pairs": 22,
+      "metrics": {
+        "vision_wrist_mean": {
+          "n_pairs": 22,
+          "leave_one_pair_out_ranking_fraction": 0.8636363636363636,
+          "correct_pairs": 19,
+          "ranking_permutation_p": 0.0013997200559888023,
+          "mean_cross_pair_dot": 0.33604214277045685,
+          "coherence_permutation_p": 0.0001999600079984003,
+          "null_ranking_mean": 0.4977636363636363
+        },
+        "fusion_visual_mean": {
+          "n_pairs": 22,
+          "leave_one_pair_out_ranking_fraction": 0.7272727272727273,
+          "correct_pairs": 16,
+          "ranking_permutation_p": 0.05538892221555689,
+          "mean_cross_pair_dot": 0.0386969796572527,
+          "coherence_permutation_p": 0.0009998000399920016,
+          "null_ranking_mean": 0.5010818181818182
+        },
+        "block_23_all_mean": {
+          "n_pairs": 22,
+          "leave_one_pair_out_ranking_fraction": 0.8636363636363636,
+          "correct_pairs": 19,
+          "ranking_permutation_p": 0.0011997600479904018,
+          "mean_cross_pair_dot": 0.005249586147076118,
+          "coherence_permutation_p": 0.0005998800239952009,
+          "null_ranking_mean": 0.5007272727272727
+        }
+      },
+      "median_initial_distance_cm": 0.5882766482406587,
+      "median_query_cup_distance_cm": 7.371884843727756,
+      "median_query_eef_distance_cm": 0.9662995757377101
+    },
+    {
+      "match_field": "initial_xy_m",
+      "caliper_cm": 2.0,
+      "n_pairs": 37,
+      "metrics": {
+        "vision_wrist_mean": {
+          "n_pairs": 37,
+          "leave_one_pair_out_ranking_fraction": 0.972972972972973,
+          "correct_pairs": 36,
+          "ranking_permutation_p": 0.0001999600079984003,
+          "mean_cross_pair_dot": 0.47621291351179396,
+          "coherence_permutation_p": 0.0001999600079984003,
+          "null_ranking_mean": 0.4998972972972973
+        },
+        "fusion_visual_mean": {
+          "n_pairs": 37,
+          "leave_one_pair_out_ranking_fraction": 0.8378378378378378,
+          "correct_pairs": 31,
+          "ranking_permutation_p": 0.0001999600079984003,
+          "mean_cross_pair_dot": 0.050217525165105255,
+          "coherence_permutation_p": 0.0001999600079984003,
+          "null_ranking_mean": 0.49897297297297294
+        },
+        "block_23_all_mean": {
+          "n_pairs": 37,
+          "leave_one_pair_out_ranking_fraction": 0.9459459459459459,
+          "correct_pairs": 35,
+          "ranking_permutation_p": 0.0001999600079984003,
+          "mean_cross_pair_dot": 0.006633613483469314,
+          "coherence_permutation_p": 0.0001999600079984003,
+          "null_ranking_mean": 0.49984324324324325
+        }
+      },
+      "median_initial_distance_cm": 1.436887113057161,
+      "median_query_cup_distance_cm": 10.62273550229992,
+      "median_query_eef_distance_cm": 2.3991744968688704
+    },
+    {
+      "match_field": "mug_xyz",
+      "caliper_cm": 0.5,
+      "n_pairs": 6,
+      "metrics": {
+        "vision_wrist_mean": {
+          "n_pairs": 6,
+          "leave_one_pair_out_ranking_fraction": 0.6666666666666666,
+          "correct_pairs": 4,
+          "ranking_permutation_p": 0.4107178564287143,
+          "mean_cross_pair_dot": 0.006252861787977809,
+          "coherence_permutation_p": 0.41111777644471104,
+          "null_ranking_mean": 0.49946666666666667
+        },
+        "fusion_visual_mean": {
+          "n_pairs": 6,
+          "leave_one_pair_out_ranking_fraction": 0.3333333333333333,
+          "correct_pairs": 2,
+          "ranking_permutation_p": 0.8196360727854429,
+          "mean_cross_pair_dot": -0.002031971609791935,
+          "coherence_permutation_p": 0.8208358328334333,
+          "null_ranking_mean": 0.5031333333333334
+        },
+        "block_23_all_mean": {
+          "n_pairs": 6,
+          "leave_one_pair_out_ranking_fraction": 0.8333333333333334,
+          "correct_pairs": 5,
+          "ranking_permutation_p": 0.1941611677664467,
+          "mean_cross_pair_dot": 7.444182309878011e-05,
+          "coherence_permutation_p": 0.16516696660667868,
+          "null_ranking_mean": 0.4995
+        }
+      },
+      "median_initial_distance_cm": 0.4416065533416059,
+      "median_query_cup_distance_cm": 0.27034560027251997,
+      "median_query_eef_distance_cm": 1.1430356703809135
+    },
+    {
+      "match_field": "mug_xyz",
+      "caliper_cm": 1.0,
+      "n_pairs": 8,
+      "metrics": {
+        "vision_wrist_mean": {
+          "n_pairs": 8,
+          "leave_one_pair_out_ranking_fraction": 0.875,
+          "correct_pairs": 7,
+          "ranking_permutation_p": 0.08178364327134573,
+          "mean_cross_pair_dot": 0.04844301443091218,
+          "coherence_permutation_p": 0.04259148170365927,
+          "null_ranking_mean": 0.49925
+        },
+        "fusion_visual_mean": {
+          "n_pairs": 8,
+          "leave_one_pair_out_ranking_fraction": 0.625,
+          "correct_pairs": 5,
+          "ranking_permutation_p": 0.4215156968606279,
+          "mean_cross_pair_dot": -0.001709123270410022,
+          "coherence_permutation_p": 0.562887422515497,
+          "null_ranking_mean": 0.494925
+        },
+        "block_23_all_mean": {
+          "n_pairs": 8,
+          "leave_one_pair_out_ranking_fraction": 0.875,
+          "correct_pairs": 7,
+          "ranking_permutation_p": 0.0623875224955009,
+          "mean_cross_pair_dot": 0.00031288730000212137,
+          "coherence_permutation_p": 0.016796640671865627,
+          "null_ranking_mean": 0.49685
+        }
+      },
+      "median_initial_distance_cm": 0.6086934883281003,
+      "median_query_cup_distance_cm": 0.45744514573647177,
+      "median_query_eef_distance_cm": 1.7766601082747746
+    },
+    {
+      "match_field": "mug_xyz",
+      "caliper_cm": 2.0,
+      "n_pairs": 13,
+      "metrics": {
+        "vision_wrist_mean": {
+          "n_pairs": 13,
+          "leave_one_pair_out_ranking_fraction": 0.9230769230769231,
+          "correct_pairs": 12,
+          "ranking_permutation_p": 0.003599280143971206,
+          "mean_cross_pair_dot": 0.35816133016084745,
+          "coherence_permutation_p": 0.003199360127974405,
+          "null_ranking_mean": 0.5014615384615385
+        },
+        "fusion_visual_mean": {
+          "n_pairs": 13,
+          "leave_one_pair_out_ranking_fraction": 0.7692307692307693,
+          "correct_pairs": 10,
+          "ranking_permutation_p": 0.09158168366326734,
+          "mean_cross_pair_dot": 0.03943843382363864,
+          "coherence_permutation_p": 0.013797240551889621,
+          "null_ranking_mean": 0.5021076923076924
+        },
+        "block_23_all_mean": {
+          "n_pairs": 13,
+          "leave_one_pair_out_ranking_fraction": 0.9230769230769231,
+          "correct_pairs": 12,
+          "ranking_permutation_p": 0.0023995200959808036,
+          "mean_cross_pair_dot": 0.002936990499276486,
+          "coherence_permutation_p": 0.0003999200159968006,
+          "null_ranking_mean": 0.5058461538461538
+        }
+      },
+      "median_initial_distance_cm": 1.0566357017361319,
+      "median_query_cup_distance_cm": 0.8851995996172881,
+      "median_query_eef_distance_cm": 3.0163635440161736
+    }
+  ]
+}

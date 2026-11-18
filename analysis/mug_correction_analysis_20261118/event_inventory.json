@@ -1,0 +1,7440 @@
+[
+  {
+    "id": "R0_00",
+    "level": 0,
+    "success": true,
+    "steps": 124,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 89,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1989907886466655
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_01",
+    "level": 0,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.4615041312264558
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_02",
+    "level": 0,
+    "success": true,
+    "steps": 129,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_03",
+    "level": 0,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.3081563508924954
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_04",
+    "level": 0,
+    "success": true,
+    "steps": 129,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1923044689540823
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_05",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 95,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.343172694750755
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_06",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.4749419709554694
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_07",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.2879196425131827
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_08",
+    "level": 0,
+    "success": true,
+    "steps": 124,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 95,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 0.9896633021670058
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_09",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.563062274950548
+      },
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.773436419543758
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_10",
+    "level": 0,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.3493587866770271
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_11",
+    "level": 0,
+    "success": true,
+    "steps": 130,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.17551383522952
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_12",
+    "level": 0,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.404778198866302
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_13",
+    "level": 0,
+    "success": true,
+    "steps": 128,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_14",
+    "level": 0,
+    "success": true,
+    "steps": 118,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_15",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 4,
+    "persistent_loss_events": [
+      {
+        "step": 48,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 16.647300646313695
+      },
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.338624394107228
+      },
+      {
+        "step": 175,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.597996393646277
+      },
+      {
+        "step": 233,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.09273969158361
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_16",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 101,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.5029340793104136
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_17",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 93,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.0050302687758015
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_18",
+    "level": 0,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 54,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 14.861255851709448
+      },
+      {
+        "step": 102,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.3692277383524438
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_19",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 53,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 14.365594570177025
+      },
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.4744780866164546
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_20",
+    "level": 0,
+    "success": true,
+    "steps": 124,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.332070971859776
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_21",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.1367800353799113
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_22",
+    "level": 0,
+    "success": true,
+    "steps": 130,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.763219800373026
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_23",
+    "level": 0,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 102,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.4751861448177832
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_24",
+    "level": 0,
+    "success": true,
+    "steps": 124,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_25",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 46,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 18.61563539955693
+      },
+      {
+        "step": 94,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 19.130223933751562
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_26",
+    "level": 0,
+    "success": true,
+    "steps": 198,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 42,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.129673666433185
+      },
+      {
+        "step": 177,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.801898616739582
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_27",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.1423767800514741
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_28",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.6649129120625872
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_29",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.2895550753532823
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_30",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.8026308567819782
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_31",
+    "level": 0,
+    "success": true,
+    "steps": 124,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 97,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.2358548192208385
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_32",
+    "level": 0,
+    "success": true,
+    "steps": 322,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 297,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.4677874079595417
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_33",
+    "level": 0,
+    "success": true,
+    "steps": 194,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 77,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 4.387266336624658
+      },
+      {
+        "step": 157,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.470562367350338
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_34",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.6008867325149219
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_35",
+    "level": 0,
+    "success": true,
+    "steps": 130,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.410655154964112
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_36",
+    "level": 0,
+    "success": true,
+    "steps": 132,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1080697022272767
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_37",
+    "level": 0,
+    "success": true,
+    "steps": 132,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.191768749542851
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_38",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 93,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.342514541434505
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_39",
+    "level": 0,
+    "success": true,
+    "steps": 128,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.3794855720201054
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_40",
+    "level": 0,
+    "success": true,
+    "steps": 131,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 90,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.540062338112622
+      },
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.626561334834732
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_41",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 95,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.34344403127827
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_42",
+    "level": 0,
+    "success": true,
+    "steps": 132,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.2036578595162544
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_43",
+    "level": 0,
+    "success": true,
+    "steps": 117,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 89,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1954788159989143
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_44",
+    "level": 0,
+    "success": true,
+    "steps": 131,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_45",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_46",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 48,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 16.54056211424664
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_47",
+    "level": 0,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 93,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.118922459177682
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_48",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 45,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.54274307157721
+      },
+      {
+        "step": 173,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.926568862563942
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_49",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_50",
+    "level": 0,
+    "success": true,
+    "steps": 131,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.080141343153827
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_51",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 93,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.1532238643739212
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_52",
+    "level": 0,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.492008883098622
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_53",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 101,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.445731208073426
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_54",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.136262531483185
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_55",
+    "level": 0,
+    "success": true,
+    "steps": 161,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 56,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.852530134457716
+      },
+      {
+        "step": 132,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.3443562349456015
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_56",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 58,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 10.306977916888501
+      },
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.789341772836483
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_57",
+    "level": 0,
+    "success": true,
+    "steps": 116,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_58",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_59",
+    "level": 0,
+    "success": true,
+    "steps": 120,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.3738768308337015
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_60",
+    "level": 0,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 102,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.6150415257836528
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_61",
+    "level": 0,
+    "success": true,
+    "steps": 133,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.334075454236938
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_62",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.429485120498147
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_63",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.4095258544520466
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_64",
+    "level": 0,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.2387043832206914
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_65",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.3657025550894015
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_66",
+    "level": 0,
+    "success": true,
+    "steps": 127,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.8443557812471516
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_67",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 49,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 15.87064303563586
+      },
+      {
+        "step": 144,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.687407835988387
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_68",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 101,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.0887400615162157
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_69",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 102,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.6454269829046309
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_70",
+    "level": 0,
+    "success": true,
+    "steps": 120,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.405581125837929
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_71",
+    "level": 0,
+    "success": true,
+    "steps": 119,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.4835439615276553
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_72",
+    "level": 0,
+    "success": true,
+    "steps": 117,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_73",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 45,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 17.9344913289298
+      },
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 6.931993188003418
+      },
+      {
+        "step": 175,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.625371241950862
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_74",
+    "level": 0,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1750488457504926
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_75",
+    "level": 0,
+    "success": true,
+    "steps": 130,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.5677065679864786
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_76",
+    "level": 0,
+    "success": true,
+    "steps": 120,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 93,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.1581229451933115
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_77",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.6115687911072714
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_78",
+    "level": 0,
+    "success": true,
+    "steps": 124,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.5581791174766233
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_79",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.529077917437683
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_80",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 93,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.1991502949959825
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_81",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 90,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.524912874501046
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_82",
+    "level": 0,
+    "success": true,
+    "steps": 134,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.139939865074557
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_83",
+    "level": 0,
+    "success": true,
+    "steps": 129,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.152265990642095
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_84",
+    "level": 0,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 101,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.3404553728489306
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_85",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 51,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 15.213610180732887
+      },
+      {
+        "step": 90,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 15.352980777457217
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_86",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.2513776704081494
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_87",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1409218570284536
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_88",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.4691110332548785
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_89",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.4113754810826555
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_90",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 53,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 14.370288384207619
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_91",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.161156952221847
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_92",
+    "level": 0,
+    "success": true,
+    "steps": 304,
+    "stable_grasp_runs": 5,
+    "persistent_loss_events": [
+      {
+        "step": 83,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 4.828111817589334
+      },
+      {
+        "step": 99,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 4.836836192669789
+      },
+      {
+        "step": 147,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.768075605526522
+      },
+      {
+        "step": 201,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.8577446335425347
+      },
+      {
+        "step": 282,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.445413394312164
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_93",
+    "level": 0,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 92,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 0.807018482001042
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_94",
+    "level": 0,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 68,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 6.2402979278005475
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R0_95",
+    "level": 0,
+    "success": true,
+    "steps": 112,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_96",
+    "level": 0,
+    "success": true,
+    "steps": 120,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 82,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.6220624854792733
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_97",
+    "level": 0,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.146177991188699
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_98",
+    "level": 0,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.9669763509594393
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R0_99",
+    "level": 0,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 0.9499878867900106
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_00",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 53,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 19.472219783117232
+      },
+      {
+        "step": 97,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 20.30967790040869
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_01",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_02",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_03",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.670053039883715
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_04",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_05",
+    "level": 1,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 82,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.339028756391559
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_06",
+    "level": 1,
+    "success": true,
+    "steps": 199,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.075641195811373
+      },
+      {
+        "step": 170,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.70501557440303
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_07",
+    "level": 1,
+    "success": true,
+    "steps": 117,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 91,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.493046664724946
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_08",
+    "level": 1,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 89,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.3845201803708536
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_09",
+    "level": 1,
+    "success": true,
+    "steps": 115,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 83,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.2836855335051216
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_10",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 43,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 24.11740821562866
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_11",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_12",
+    "level": 1,
+    "success": true,
+    "steps": 119,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 89,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.6585722279359443
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_13",
+    "level": 1,
+    "success": true,
+    "steps": 431,
+    "stable_grasp_runs": 7,
+    "persistent_loss_events": [
+      {
+        "step": 81,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.586604842769323
+      },
+      {
+        "step": 162,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.813298425352909
+      },
+      {
+        "step": 211,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.6540573082611862
+      },
+      {
+        "step": 280,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.2700452010287484
+      },
+      {
+        "step": 334,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.2842454231609004
+      },
+      {
+        "step": 391,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.5347347617451
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_14",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_15",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_16",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 17,
+    "persistent_loss_events": [
+      {
+        "step": 47,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.856428675791612
+      },
+      {
+        "step": 120,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.968900566680652
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.681342467787044
+      },
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.599640325401808
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.578165507833118
+      },
+      {
+        "step": 269,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.405367743365126
+      },
+      {
+        "step": 299,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.536283159699462
+      },
+      {
+        "step": 329,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.443100770629426
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.134837792471522
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_17",
+    "level": 1,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 100,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.2793142634120458
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_18",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 7,
+    "persistent_loss_events": [
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.104555592800015
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.20618133604379
+      },
+      {
+        "step": 448,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.801831264820931
+      },
+      {
+        "step": 509,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.271623300312228
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_19",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 38,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 23.06327466958616
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_20",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_21",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 42,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.254933146791288
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_22",
+    "level": 1,
+    "success": true,
+    "steps": 211,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 179,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.4656495275971277
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_23",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_24",
+    "level": 1,
+    "success": true,
+    "steps": 116,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_25",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 43,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 21.853391033520246
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_26",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 228,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.1580427533825395
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_27",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 44,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.733279804292064
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_28",
+    "level": 1,
+    "success": true,
+    "steps": 129,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 88,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.781139394672977
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_29",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 74,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.548753743886355
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_30",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 41,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.5057614840368
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_31",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 115,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.258312589537814
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_32",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 45,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 21.970596844690114
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_33",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 40,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 23.592900652528467
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_34",
+    "level": 1,
+    "success": true,
+    "steps": 130,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 90,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1525490572767016
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_35",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_36",
+    "level": 1,
+    "success": true,
+    "steps": 127,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.03538310949141
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_37",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 107,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.264506097543752
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_38",
+    "level": 1,
+    "success": true,
+    "steps": 120,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 97,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.116995995521457
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_39",
+    "level": 1,
+    "success": true,
+    "steps": 300,
+    "stable_grasp_runs": 5,
+    "persistent_loss_events": [
+      {
+        "step": 83,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.6922695893182222
+      },
+      {
+        "step": 166,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.7895862903418833
+      },
+      {
+        "step": 213,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.000538933200732
+      },
+      {
+        "step": 281,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.668327769359387
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_40",
+    "level": 1,
+    "success": true,
+    "steps": 152,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 117,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.877670095675786
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_41",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_42",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_43",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_44",
+    "level": 1,
+    "success": true,
+    "steps": 127,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.135145982449469
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_45",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 37,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 23.090184212396423
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_46",
+    "level": 1,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 82,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.275732025127046
+      },
+      {
+        "step": 91,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1741464188432253
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_47",
+    "level": 1,
+    "success": true,
+    "steps": 119,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.1910449605989095
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_48",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 42,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.776442814347163
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_49",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_50",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 44,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.050242277876723
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_51",
+    "level": 1,
+    "success": true,
+    "steps": 464,
+    "stable_grasp_runs": 5,
+    "persistent_loss_events": [
+      {
+        "step": 165,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.795661826945325
+      },
+      {
+        "step": 343,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.656256179575232
+      },
+      {
+        "step": 381,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.5346470901702163
+      },
+      {
+        "step": 419,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.253915920852382
+      },
+      {
+        "step": 441,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.5467994178312192
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_52",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_53",
+    "level": 1,
+    "success": true,
+    "steps": 117,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_54",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 6,
+    "persistent_loss_events": [
+      {
+        "step": 78,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 7.831512894909401
+      },
+      {
+        "step": 111,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.8424540366704445
+      },
+      {
+        "step": 175,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 6.077919915487346
+      },
+      {
+        "step": 349,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.7247090932433364
+      },
+      {
+        "step": 401,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.711254026411295
+      },
+      {
+        "step": 474,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.856555374276217
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_55",
+    "level": 1,
+    "success": true,
+    "steps": 123,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.8233562355124584
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_56",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 39,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 24.134934723033787
+      },
+      {
+        "step": 146,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.729986180652874
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_57",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 43,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.20219314671849
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_58",
+    "level": 1,
+    "success": true,
+    "steps": 118,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 93,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.9415429295573974
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_59",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_60",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_61",
+    "level": 1,
+    "success": true,
+    "steps": 128,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 96,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.1630357743692854
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_62",
+    "level": 1,
+    "success": true,
+    "steps": 271,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.282990115496088
+      },
+      {
+        "step": 239,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.8571417401855075
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_63",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_64",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_65",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 14,
+    "persistent_loss_events": [
+      {
+        "step": 207,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.802463501319505
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.5429242884566
+      },
+      {
+        "step": 268,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.95024631416381
+      },
+      {
+        "step": 299,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.704676583718335
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.873816786373554
+      },
+      {
+        "step": 419,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.372732633711276
+      },
+      {
+        "step": 480,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.81923292276496
+      },
+      {
+        "step": 509,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.76850313403178
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_66",
+    "level": 1,
+    "success": true,
+    "steps": 125,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.114438459844145
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_67",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_68",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 42,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 23.55178522778231
+      },
+      {
+        "step": 112,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 9.392508031301139
+      },
+      {
+        "step": 500,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 4.563543417878855
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_69",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_70",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_71",
+    "level": 1,
+    "success": true,
+    "steps": 122,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 99,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.321421319043396
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_72",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_73",
+    "level": 1,
+    "success": true,
+    "steps": 121,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 84,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 1.957599276173159
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_74",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_75",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 119,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.060618461998157
+      },
+      {
+        "step": 148,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.714949172840956
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_76",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 52,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.298242761081163
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_77",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 62,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.294817739125955
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_78",
+    "level": 1,
+    "success": true,
+    "steps": 117,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 90,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.731466085993336
+      },
+      {
+        "step": 98,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.667511013135473
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_79",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 16,
+    "persistent_loss_events": [
+      {
+        "step": 55,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 16.476900855986596
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.121334341600006
+      },
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.08254963240985
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.81368994472222
+      },
+      {
+        "step": 295,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.849219002346175
+      },
+      {
+        "step": 335,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.3630047949236
+      },
+      {
+        "step": 356,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.08827599979134
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.016152185269315
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.109588467282183
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.84388596940577
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_80",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_81",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 17,
+    "persistent_loss_events": [
+      {
+        "step": 55,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 16.5063403312735
+      },
+      {
+        "step": 107,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 10.672773644165229
+      },
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 8.86076087083525
+      },
+      {
+        "step": 230,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 8.149719169367886
+      },
+      {
+        "step": 297,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.721977948267627
+      },
+      {
+        "step": 357,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.662433821788737
+      },
+      {
+        "step": 417,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 8.501830160579479
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_82",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 89,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 10.958444682678214
+      },
+      {
+        "step": 439,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 11.53121034468195
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_83",
+    "level": 1,
+    "success": true,
+    "steps": 222,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 197,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.8066048498724656
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_84",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_85",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_86",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_87",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_88",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_89",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 4,
+    "persistent_loss_events": [
+      {
+        "step": 57,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 18.489846523595517
+      },
+      {
+        "step": 150,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.473297217391643
+      },
+      {
+        "step": 174,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.746003022791704
+      },
+      {
+        "step": 236,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.974320083696257
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_90",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 74,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 20.911144728948255
+      },
+      {
+        "step": 120,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.739937812265264
+      },
+      {
+        "step": 201,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 17.831424963163975
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_91",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 65,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 15.030038933617472
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_92",
+    "level": 1,
+    "success": true,
+    "steps": 110,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 81,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.1028865725188552
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_93",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_94",
+    "level": 1,
+    "success": true,
+    "steps": 437,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 69,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 6.645721522625285
+      },
+      {
+        "step": 413,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.9234605252679358
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R1_95",
+    "level": 1,
+    "success": true,
+    "steps": 111,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_96",
+    "level": 1,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 97,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 1.720242209431665
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_97",
+    "level": 1,
+    "success": true,
+    "steps": 124,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 94,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 0.9972735886000064
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_98",
+    "level": 1,
+    "success": true,
+    "steps": 126,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R1_99",
+    "level": 1,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_00",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 6,
+    "persistent_loss_events": [
+      {
+        "step": 357,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.232719736209075
+      },
+      {
+        "step": 387,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.34560855060729
+      },
+      {
+        "step": 448,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.400384867607112
+      },
+      {
+        "step": 478,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.654043246016688
+      },
+      {
+        "step": 508,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.306331531959232
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_01",
+    "level": 2,
+    "success": true,
+    "steps": 146,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 115,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.062499468764814
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_02",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.374869609508696
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.019719016366714
+      },
+      {
+        "step": 299,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.151127184976916
+      },
+      {
+        "step": 328,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.013314727241138
+      },
+      {
+        "step": 420,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.38758503666527
+      },
+      {
+        "step": 480,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.587661764419332
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.508392347256798
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_03",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_04",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_05",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_06",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_07",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_08",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 12,
+    "persistent_loss_events": [
+      {
+        "step": 67,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.657645425971605
+      },
+      {
+        "step": 114,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 6.146391087226203
+      },
+      {
+        "step": 144,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 6.580322916371266
+      },
+      {
+        "step": 177,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 6.944392011012549
+      },
+      {
+        "step": 225,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 6.322861292414869
+      },
+      {
+        "step": 352,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 6.602219608071523
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.457145521309282
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_09",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 12,
+    "persistent_loss_events": [
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.099086539448084
+      },
+      {
+        "step": 269,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.652350162886242
+      },
+      {
+        "step": 300,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.293247811626642
+      },
+      {
+        "step": 330,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.696038867795359
+      },
+      {
+        "step": 360,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.940777738073612
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.96548545211548
+      },
+      {
+        "step": 475,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.471209185840912
+      },
+      {
+        "step": 508,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.556429842310383
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_10",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 18,
+    "persistent_loss_events": [
+      {
+        "step": 42,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.948698291907473
+      },
+      {
+        "step": 82,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.004434399657457
+      },
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.640030714993406
+      },
+      {
+        "step": 150,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.748558450483364
+      },
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.697205692530975
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.917805105968617
+      },
+      {
+        "step": 298,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.78435003605126
+      },
+      {
+        "step": 330,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.626534308004539
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.120972784309762
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.698340726511503
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_11",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 17,
+    "persistent_loss_events": [
+      {
+        "step": 41,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 24.63338050333295
+      },
+      {
+        "step": 148,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.283435580159031
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.383484311591861
+      },
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.95058065469507
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.912161987172396
+      },
+      {
+        "step": 269,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.0497479405445
+      },
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.664684093857826
+      },
+      {
+        "step": 390,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.015602859478731
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.725895254003994
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.144340621315266
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.065142221764631
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.351352812081455
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_12",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 148,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.224419650222464
+      },
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 9.534537738592487
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_13",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_14",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_15",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 70,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 16.827722661954546
+      },
+      {
+        "step": 113,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.142513669102417
+      },
+      {
+        "step": 186,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 15.555688789323616
+      },
+      {
+        "step": 208,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 15.732345076686837
+      },
+      {
+        "step": 237,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.391138836974967
+      },
+      {
+        "step": 268,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.771046832814708
+      },
+      {
+        "step": 297,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.78043174617809
+      },
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 17.103422703623515
+      },
+      {
+        "step": 387,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.850356095340032
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.809836832823567
+      },
+      {
+        "step": 477,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 17.042699823378577
+      },
+      {
+        "step": 506,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 17.10900983942951
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_16",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 11,
+    "persistent_loss_events": [
+      {
+        "step": 65,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.385938923133665
+      },
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.329834565231021
+      },
+      {
+        "step": 176,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.070511722677972
+      },
+      {
+        "step": 388,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.493768735365602
+      },
+      {
+        "step": 449,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.185943216103697
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.343292388926269
+      },
+      {
+        "step": 506,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.361261944374359
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_17",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 40,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 27.115048039438726
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_18",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_19",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.314116557924892
+      },
+      {
+        "step": 207,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.228671633811086
+      },
+      {
+        "step": 240,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.006018278309691
+      },
+      {
+        "step": 329,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.261174155447877
+      },
+      {
+        "step": 388,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.274735882528665
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_20",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_21",
+    "level": 2,
+    "success": true,
+    "steps": 239,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 78,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 4.377155373163424
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_22",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_23",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_24",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_25",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_26",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_27",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_28",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_29",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_30",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_31",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 32,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 24.780463769306557
+      },
+      {
+        "step": 48,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 24.297197388869105
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_32",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_33",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 115,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.23255303706444
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_34",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 56,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 17.46432190984663
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_35",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 18,
+    "persistent_loss_events": [
+      {
+        "step": 54,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 20.382779097340347
+      },
+      {
+        "step": 112,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.542827175930887
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.212076420981374
+      },
+      {
+        "step": 298,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.483669247176705
+      },
+      {
+        "step": 356,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.967514353158629
+      },
+      {
+        "step": 448,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.319986881304406
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_36",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.977746541772881
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_37",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 38,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.81003230417543
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_38",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 18,
+    "persistent_loss_events": [
+      {
+        "step": 43,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.85034692773566
+      },
+      {
+        "step": 69,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.506709260533674
+      },
+      {
+        "step": 120,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.39871804965702
+      },
+      {
+        "step": 139,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 14.199614622139384
+      },
+      {
+        "step": 207,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.980388687330635
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.899584938124661
+      },
+      {
+        "step": 269,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.025642614947557
+      },
+      {
+        "step": 300,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.096864209092681
+      },
+      {
+        "step": 328,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.023887254470779
+      },
+      {
+        "step": 360,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.387618432867358
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.330450051662881
+      },
+      {
+        "step": 420,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.012512748133156
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.123971468996995
+      },
+      {
+        "step": 508,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.981414626560234
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_39",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_40",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_41",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_42",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_43",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 102,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.518105081547997
+      },
+      {
+        "step": 160,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.007563780074987
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_44",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_45",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_46",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_47",
+    "level": 2,
+    "success": true,
+    "steps": 368,
+    "stable_grasp_runs": 4,
+    "persistent_loss_events": [
+      {
+        "step": 84,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.670307605960701
+      },
+      {
+        "step": 100,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 3.7833472910439716
+      },
+      {
+        "step": 167,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.520927818472848
+      },
+      {
+        "step": 280,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 3.253792403743668
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_48",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_49",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_50",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_51",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 4,
+    "persistent_loss_events": [
+      {
+        "step": 57,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 16.112989737686444
+      },
+      {
+        "step": 112,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.651734555706692
+      },
+      {
+        "step": 474,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.135447398331902
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_52",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 79,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 9.412388063961947
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_53",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 42,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.702148971222723
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_54",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 6,
+    "persistent_loss_events": [
+      {
+        "step": 67,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.974487090134325
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.094702196476447
+      },
+      {
+        "step": 447,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.206039440413882
+      },
+      {
+        "step": 477,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.147497614051174
+      },
+      {
+        "step": 506,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.063500426435795
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_55",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_56",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_57",
+    "level": 2,
+    "success": true,
+    "steps": 135,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_58",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_59",
+    "level": 2,
+    "success": true,
+    "steps": 109,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 79,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.201030389415138
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_60",
+    "level": 2,
+    "success": true,
+    "steps": 120,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 81,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.380776410679509
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_61",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 37,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.254308402346958
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_62",
+    "level": 2,
+    "success": true,
+    "steps": 133,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 102,
+        "near_plate": true,
+        "open_command_recent": true,
+        "xy_plate_cm": 2.8751725825489296
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_63",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 39,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 25.080980678210747
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_64",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_65",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_66",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_67",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_68",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 53,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 20.693798713860616
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_69",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_70",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 150,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.873967244510355
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_71",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_72",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 75,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.987923889177274
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_73",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 114,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.740590100694
+      },
+      {
+        "step": 139,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 9.169173416713937
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_74",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 7.634703388520768
+      },
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.595962295002337
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_75",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_76",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_77",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_78",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 95,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 7.915442450314473
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_79",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 6,
+    "persistent_loss_events": [
+      {
+        "step": 53,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 19.79567680390991
+      },
+      {
+        "step": 109,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 10.555633185945904
+      },
+      {
+        "step": 475,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 6.689154801861563
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_80",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 92,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.873350232070793
+      },
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.231704600749966
+      },
+      {
+        "step": 235,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.673324260630249
+      },
+      {
+        "step": 308,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.849583787925837
+      },
+      {
+        "step": 338,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.213473594007592
+      },
+      {
+        "step": 402,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.519041630964264
+      },
+      {
+        "step": 448,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.99171339997232
+      },
+      {
+        "step": 472,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.131905552824342
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_81",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_82",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_83",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_84",
+    "level": 2,
+    "success": true,
+    "steps": 130,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 82,
+        "near_plate": true,
+        "open_command_recent": false,
+        "xy_plate_cm": 2.692715405743198
+      }
+    ],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_85",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_86",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_87",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 70,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 17.548191997377707
+      },
+      {
+        "step": 268,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 17.803177282734826
+      },
+      {
+        "step": 354,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 18.55251966133129
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_88",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 80,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 9.501407000563875
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_89",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 15,
+    "persistent_loss_events": [
+      {
+        "step": 39,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 27.27798871682164
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.295300252307369
+      },
+      {
+        "step": 240,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.515934471391558
+      },
+      {
+        "step": 267,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.466150243431482
+      },
+      {
+        "step": 386,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 10.92266622795921
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.39215520230545
+      },
+      {
+        "step": 508,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.275689466438065
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_90",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_91",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 47,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 26.803921254873053
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_92",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_93",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_94",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_95",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 46,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 24.138177541851842
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_96",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 117,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.942847800988208
+      },
+      {
+        "step": 177,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.58815305579818
+      },
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.536949029292181
+      },
+      {
+        "step": 268,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.319783367738887
+      },
+      {
+        "step": 299,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.392434388089175
+      },
+      {
+        "step": 328,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.519135116224062
+      },
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.19996854997522
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.5058488893428
+      },
+      {
+        "step": 420,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.328763548204561
+      },
+      {
+        "step": 449,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.459951060403471
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.799731384421845
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R2_97",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_98",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R2_99",
+    "level": 2,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_00",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_01",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_02",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 208,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.119320558637398
+      },
+      {
+        "step": 298,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.6545588183294
+      },
+      {
+        "step": 358,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.85920107471468
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.02543038480469
+      },
+      {
+        "step": 420,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.975020482014868
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.003293127924223
+      },
+      {
+        "step": 508,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.897452349946404
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_03",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_04",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_05",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_06",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_07",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 15,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.303760710866298
+      },
+      {
+        "step": 147,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.470303432596959
+      },
+      {
+        "step": 173,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.703491586525445
+      },
+      {
+        "step": 203,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.015463662153437
+      },
+      {
+        "step": 268,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.695555398955719
+      },
+      {
+        "step": 328,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.854718903014716
+      },
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.78775660911478
+      },
+      {
+        "step": 419,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.087047681220428
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.050745347889288
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_08",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_09",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_10",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_11",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_12",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_13",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_14",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_15",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_16",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_17",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 14,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.976160112230772
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.030590593950617
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.727942237029453
+      },
+      {
+        "step": 269,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.887068329874966
+      },
+      {
+        "step": 298,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.761479864223805
+      },
+      {
+        "step": 328,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.04063522834427
+      },
+      {
+        "step": 357,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.078182864987149
+      },
+      {
+        "step": 386,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.824880328430172
+      },
+      {
+        "step": 417,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.74136824335949
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.709618458765037
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.828053538062228
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_18",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.398465873272402
+      },
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.347875729159734
+      },
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.436482877143634
+      },
+      {
+        "step": 210,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.651065731155594
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.099076256187974
+      },
+      {
+        "step": 270,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.33412834834522
+      },
+      {
+        "step": 300,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.671336730959341
+      },
+      {
+        "step": 330,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.882779173607956
+      },
+      {
+        "step": 360,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.501088834890588
+      },
+      {
+        "step": 390,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.50512104405873
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.513085012502103
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.222219549266804
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_19",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 14,
+    "persistent_loss_events": [
+      {
+        "step": 116,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.402209002304332
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.794424327410375
+      },
+      {
+        "step": 268,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.803001330663848
+      },
+      {
+        "step": 300,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.770245367058974
+      },
+      {
+        "step": 358,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.969960355778104
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.468349966861085
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.63117917846704
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.778826775321436
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.619272796988456
+      },
+      {
+        "step": 509,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.665329526676535
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_20",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 14,
+    "persistent_loss_events": [
+      {
+        "step": 119,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.422092771166758
+      },
+      {
+        "step": 150,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.715090699398369
+      },
+      {
+        "step": 176,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.141927128514052
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.48037190465564
+      },
+      {
+        "step": 297,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.362219199721693
+      },
+      {
+        "step": 358,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.650389454708254
+      },
+      {
+        "step": 390,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.558939573140815
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.49723646425752
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.631728764793353
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.684116605873614
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_21",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_22",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 8,
+    "persistent_loss_events": [
+      {
+        "step": 227,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.894075114172272
+      },
+      {
+        "step": 258,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.78665306518391
+      },
+      {
+        "step": 320,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.450808996460312
+      },
+      {
+        "step": 346,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.79842690592584
+      },
+      {
+        "step": 376,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.937771817267077
+      },
+      {
+        "step": 405,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 15.062140012628628
+      },
+      {
+        "step": 433,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.807109101420862
+      },
+      {
+        "step": 463,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.820089014353641
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_23",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 295,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.165275329978337
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_24",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_25",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_26",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_27",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_28",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 15,
+    "persistent_loss_events": [
+      {
+        "step": 110,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 12.722714047703592
+      },
+      {
+        "step": 147,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.791312443588673
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.966242155588859
+      },
+      {
+        "step": 208,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.458968790007487
+      },
+      {
+        "step": 269,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.295417963957174
+      },
+      {
+        "step": 300,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.501442099157883
+      },
+      {
+        "step": 327,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.598746930049524
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.759568708129553
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.784416042111047
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.62936622345314
+      },
+      {
+        "step": 478,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.617972968456423
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.623818853318511
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_29",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_30",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_31",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_32",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_33",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_34",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_35",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_36",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 14,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.615801186248282
+      },
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.256904482897045
+      },
+      {
+        "step": 234,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.521689076763705
+      },
+      {
+        "step": 329,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.820358407557212
+      },
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.83474580736313
+      },
+      {
+        "step": 390,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.014706655191125
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.878411001655605
+      },
+      {
+        "step": 478,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.095290557621917
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_37",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_38",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_39",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_40",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_41",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_42",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_43",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_44",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_45",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_46",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_47",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_48",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_49",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_50",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 9,
+    "persistent_loss_events": [
+      {
+        "step": 259,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.148618448228474
+      },
+      {
+        "step": 288,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.231046849327974
+      },
+      {
+        "step": 317,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.37287413590778
+      },
+      {
+        "step": 379,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.791103010464527
+      },
+      {
+        "step": 411,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.908345259930485
+      },
+      {
+        "step": 437,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.946567626530529
+      },
+      {
+        "step": 467,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.000292099881209
+      },
+      {
+        "step": 497,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.049724491983635
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_51",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_52",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_53",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_54",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_55",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 14,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.831424216538458
+      },
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.14633448938299
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.047970276356722
+      },
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.811918010340534
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.73672658322777
+      },
+      {
+        "step": 270,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.884927361478338
+      },
+      {
+        "step": 299,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.071643102605762
+      },
+      {
+        "step": 360,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.274728287106052
+      },
+      {
+        "step": 390,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.294974219396622
+      },
+      {
+        "step": 420,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.409100389939354
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.316018212858927
+      },
+      {
+        "step": 480,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.225009910017171
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.562738007190708
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_56",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_57",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 173,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 9.764296301200469
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_58",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 5,
+    "persistent_loss_events": [
+      {
+        "step": 169,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.22157774808223
+      },
+      {
+        "step": 197,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.35499186384999
+      },
+      {
+        "step": 226,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.518677173495528
+      },
+      {
+        "step": 255,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.597274640480123
+      },
+      {
+        "step": 282,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.228722479028969
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_59",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_60",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_61",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_62",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_63",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_64",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 15,
+    "persistent_loss_events": [
+      {
+        "step": 55,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 22.665527431037535
+      },
+      {
+        "step": 116,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.217789502407692
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.04243520953995
+      },
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.092659685206556
+      },
+      {
+        "step": 240,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.404204958200753
+      },
+      {
+        "step": 267,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.397934148514103
+      },
+      {
+        "step": 328,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.530423684987857
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.77676914813961
+      },
+      {
+        "step": 419,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.738213648005779
+      },
+      {
+        "step": 450,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.678136460292665
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_65",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_66",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_67",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 11.70239696883489
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.660095754239354
+      },
+      {
+        "step": 232,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 13.126245405810847
+      },
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.671112004057745
+      },
+      {
+        "step": 388,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.850749225516356
+      },
+      {
+        "step": 510,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.166330022969797
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_68",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_69",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_70",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_71",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_72",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_73",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_74",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_75",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_76",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_77",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 3,
+    "persistent_loss_events": [
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.371823462438666
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_78",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 149,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.30414152511151
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_79",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_80",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 15,
+    "persistent_loss_events": [
+      {
+        "step": 115,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.273017997412936
+      },
+      {
+        "step": 178,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.299827334123268
+      },
+      {
+        "step": 270,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.259340333388606
+      },
+      {
+        "step": 299,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.322150461633989
+      },
+      {
+        "step": 330,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.468444141360097
+      },
+      {
+        "step": 388,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.45374179904399
+      },
+      {
+        "step": 420,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.65110231157553
+      },
+      {
+        "step": 449,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.8413109081351
+      },
+      {
+        "step": 480,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.72360381352945
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_81",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.145308342438659
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.65657729475836
+      },
+      {
+        "step": 269,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.601270643292477
+      },
+      {
+        "step": 300,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.770591346154523
+      },
+      {
+        "step": 329,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.904756426772142
+      },
+      {
+        "step": 390,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 14.022789635968092
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_82",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_83",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 13,
+    "persistent_loss_events": [
+      {
+        "step": 209,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.581087861781521
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.572189012633924
+      },
+      {
+        "step": 297,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.482074708096459
+      },
+      {
+        "step": 329,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.727367340014714
+      },
+      {
+        "step": 359,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.869834833171359
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.782086529625545
+      },
+      {
+        "step": 419,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.828025807747956
+      },
+      {
+        "step": 449,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.153622885863697
+      },
+      {
+        "step": 480,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.302481018652237
+      },
+      {
+        "step": 508,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.432692692611914
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_84",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_85",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_86",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_87",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_88",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_89",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_90",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_91",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 1,
+    "persistent_loss_events": [
+      {
+        "step": 148,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.857312013512876
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_92",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_93",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 15,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.337870278547358
+      },
+      {
+        "step": 148,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.910395104047815
+      },
+      {
+        "step": 208,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.23062746173688
+      },
+      {
+        "step": 239,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.411934168546239
+      },
+      {
+        "step": 299,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.65455075005602
+      },
+      {
+        "step": 329,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.939451957282062
+      },
+      {
+        "step": 358,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.671086600347149
+      },
+      {
+        "step": 390,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.791570846956683
+      },
+      {
+        "step": 448,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.866437668620465
+      },
+      {
+        "step": 480,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.895976531569701
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_94",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_95",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 9,
+    "persistent_loss_events": [
+      {
+        "step": 57,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 19.72246481259648
+      },
+      {
+        "step": 96,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 16.714051808806396
+      },
+      {
+        "step": 119,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 15.989563872649686
+      },
+      {
+        "step": 147,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 15.844469840840961
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 16.529868928261266
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 17.875827349857836
+      },
+      {
+        "step": 300,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 18.751978190823753
+      },
+      {
+        "step": 356,
+        "near_plate": false,
+        "open_command_recent": false,
+        "xy_plate_cm": 18.624205200941894
+      },
+      {
+        "step": 451,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 18.674987130345254
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_96",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 2,
+    "persistent_loss_events": [
+      {
+        "step": 148,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 8.373896155004001
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_97",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 15,
+    "persistent_loss_events": [
+      {
+        "step": 118,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.578308900992994
+      },
+      {
+        "step": 179,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 12.99787436951835
+      },
+      {
+        "step": 208,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.192329811128142
+      },
+      {
+        "step": 238,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.332918161514643
+      },
+      {
+        "step": 268,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.488712381086424
+      },
+      {
+        "step": 298,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.364099624973798
+      },
+      {
+        "step": 328,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.25810172530927
+      },
+      {
+        "step": 358,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.516720137689786
+      },
+      {
+        "step": 389,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.533134585320965
+      },
+      {
+        "step": 418,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.456283448256956
+      },
+      {
+        "step": 449,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.623595599462874
+      },
+      {
+        "step": 479,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.388640956301003
+      },
+      {
+        "step": 509,
+        "near_plate": false,
+        "open_command_recent": true,
+        "xy_plate_cm": 13.63488184750262
+      }
+    ],
+    "has_far_loss": true
+  },
+  {
+    "id": "R3_98",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  },
+  {
+    "id": "R3_99",
+    "level": 3,
+    "success": false,
+    "steps": 520,
+    "stable_grasp_runs": 0,
+    "persistent_loss_events": [],
+    "has_far_loss": false
+  }
+]

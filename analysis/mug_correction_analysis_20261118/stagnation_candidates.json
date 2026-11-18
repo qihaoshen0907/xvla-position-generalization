@@ -1,0 +1,3146 @@
+[
+  {
+    "id": "R0_46",
+    "type": "first_close",
+    "level": 0,
+    "gaps_cm": [
+      8.05995617096027,
+      5.458522871750874,
+      12.63959098166502
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.770053227783972,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R0_58",
+    "type": "first_close",
+    "level": 0,
+    "gaps_cm": [
+      4.383911418125908,
+      8.007796518465232,
+      5.10413290358082
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.493248855596618,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R0_85",
+    "type": "first_close",
+    "level": 0,
+    "gaps_cm": [
+      6.504328052986473,
+      3.1885377404923463,
+      9.505680981532736
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.281270049616161,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_01",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.292999304216145,
+      7.337314341244366,
+      7.717026767107303
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.405395269334088,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_02",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      10.703583577920734,
+      7.398120151345846,
+      16.86084679818347
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.336429646527447,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_04",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      13.086987290965792,
+      8.362430661681222,
+      6.618670477853208
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.349267703055179,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_11",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      11.247471313901098,
+      10.4034663318174,
+      12.075818351499358
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.6407846255839766,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_14",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      6.148445520618106,
+      4.761508467464676,
+      4.76075605779197
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.85858245961162,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_15",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      14.281511512707102,
+      7.830398398324361,
+      10.192913253958642
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.8612420461470622,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_18",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      6.894872288572051,
+      4.938315985521566,
+      6.236524219623115
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.404708944527616,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_19",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      8.504933256694427,
+      8.813329518013298,
+      11.93164840953671
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.4540779031176605,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_20",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      5.505239915422921,
+      15.39615033057534,
+      10.40140378131505
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.658822639467025,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_21",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      9.566516305707793,
+      8.167111427692253,
+      15.17785819793038
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.98769151592334,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_23",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.752669188068443,
+      5.687084481085856,
+      11.141855253731867
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.4108215071541,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_25",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      7.6197814595099045,
+      7.860127319899636,
+      15.124174362690516
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.326627230886924,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_27",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      8.1554372589513,
+      5.152453685029763,
+      12.810688646966575
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.588854208429575,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_30",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      14.13934888876204,
+      6.933449609711875,
+      8.402733306533463
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.8943299573418777,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_31",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      3.3719087151223537,
+      3.5019345252129512,
+      5.389320078596021
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.443736273630129,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_32",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      9.292632116074339,
+      7.25289597948884,
+      13.288427306184492
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.353497792661811,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_33",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      3.8934154666369785,
+      13.11262326915138,
+      6.090496413823517
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.367342024503351,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_35",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      5.649182291999389,
+      13.444027897263483,
+      10.293101525231007
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.526483152001633,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_37",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.4355008659455795,
+      5.306819504560526,
+      8.573174340297774
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.67276711213951,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_41",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.445832179259731,
+      5.54166350270711,
+      13.785288361213713
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.118453037819894,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_42",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      5.749684139097112,
+      3.687551061198708,
+      4.512202443452157
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.642812965937747,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_43",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      3.7889068797707397,
+      5.397493654707911,
+      16.2691691924012
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.272768508187349,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_45",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      10.132386153721399,
+      7.579761873581747,
+      11.011596081546195
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.9430033658637536,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_48",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      10.336731761398973,
+      7.6094048457618815,
+      15.033076639076596
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.366381180192203,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_49",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      9.909893748728427,
+      7.9131494273554575,
+      10.6864812080289
+    ],
+    "max_adjacent_endpoint_shift_cm": 15.415379372756204,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_50",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      8.07762667239617,
+      8.852492876847277,
+      14.242609564692183
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.417095050512855,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_52",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.298969080902735,
+      14.825732774995895,
+      7.190527020706619
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.671455633654773,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_57",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      15.969270424386231,
+      12.861972958350645,
+      15.8747121267857
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.50611778730786,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_59",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.4602726609142485,
+      16.660730419289916,
+      10.477563649633495
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.072839260371127,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_60",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      6.6502746952658205,
+      14.387650037495181,
+      11.770471935188372
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.649841513291413,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_63",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      12.93511059533547,
+      9.529597603727376,
+      10.377400483900535
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.563360302423181,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_64",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      6.68250953761947,
+      14.507316966788558,
+      11.196205849043638
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.573285185730085,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_65",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      3.153635799091467,
+      4.61410778101316,
+      8.75473935172156
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.599978033303595,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_67",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      9.393220455957115,
+      12.265325048643385,
+      10.409593807077153
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.033798425335887,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_69",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      3.7703703056083797,
+      15.568335008092435,
+      12.442759619407452
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.352295464046102,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_70",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      7.231062610813603,
+      9.120488638629716,
+      6.233047688614928
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.8472100788266035,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_72",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      5.593080241933716,
+      14.41171737445476,
+      11.718074411518842
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.4037514675674085,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_74",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.134165877546577,
+      12.544931393090744,
+      10.520599931581115
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.9508348389622048,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_76",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      13.881167867209513,
+      7.936035108722852,
+      7.737591297862447
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.030953295063602,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_80",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      6.323083119103531,
+      17.438893382592344,
+      13.37196724640288
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.647487908761576,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_82",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      5.03749435668511,
+      5.25633962070812,
+      4.859530980495515
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.081381524775878,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_84",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      6.997802149431845,
+      14.460997340195927,
+      11.494360713262559
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.382304196656604,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_85",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      7.720658672783374,
+      13.340385256513137,
+      11.62186492566085
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.4887345074016114,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_86",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      12.919272093429987,
+      8.175592031056734,
+      6.487600967702139
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.833146751771836,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_87",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      3.0941178043782256,
+      12.395604353794058,
+      6.416719602003747
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.876012829123006,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_88",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      11.926045801280491,
+      5.773227656370597,
+      20.149297872981535
+    ],
+    "max_adjacent_endpoint_shift_cm": 16.327690390798637,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_93",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      5.410647570931611,
+      6.210064772254205,
+      3.625155595836402
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.078125,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_99",
+    "type": "first_close",
+    "level": 1,
+    "gaps_cm": [
+      4.2023361406333954,
+      8.536945157754383,
+      5.036563919293145
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.126525506559008,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_00",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.749666645089085,
+      5.4697939100673185,
+      7.776493477331176
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.677210961848304,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_02",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.416238141182345,
+      3.7202184563196186,
+      8.414112909833078
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.967529643021866,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_03",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.450571458646168,
+      5.9864136010295566,
+      7.6167387864649365
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.809012598533254,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_04",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      12.89465560800699,
+      8.142249580568741,
+      19.5554376980031
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.654813579002385,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_05",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.54874630192275,
+      12.188803080891415,
+      10.660263863147483
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.3038460311759814,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_07",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.141688231111635,
+      5.890418741690107,
+      7.107907680857191
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.756951994822872,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_09",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.914962823395246,
+      5.265813423902419,
+      7.333155143054751
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.5898548085708764,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_13",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.940390336083709,
+      7.969361127019965,
+      7.968875329812689
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.6205058909631846,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_14",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.073158276818733,
+      7.572968588353804,
+      7.284857857182926
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.8031632885544913,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R2_17",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      3.516588565313046,
+      15.143670398768203,
+      12.035020024232875
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.801063796033082,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_18",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.83394338963951,
+      4.960835204777933,
+      10.844837934561
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.983587387486009,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_19",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.78311851936639,
+      3.6929420348794704,
+      8.120701659223078
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.360221942283145,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_20",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.2867774223472,
+      4.498467071795906,
+      17.821130685862734
+    ],
+    "max_adjacent_endpoint_shift_cm": 13.318068295704999,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_22",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      7.7837233685318115,
+      5.638299801168883,
+      5.132570470240103
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.67380943476107,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_23",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      6.625239952006291,
+      3.5555212099485893,
+      5.31419700049797
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.0762003540497362,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_24",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      10.25009929014709,
+      6.947294633504732,
+      8.790908963146823
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.42573092741684,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_25",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      11.37264319554498,
+      6.778400661498591,
+      18.087811016309345
+    ],
+    "max_adjacent_endpoint_shift_cm": 13.591794772229509,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_26",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.552031692960803,
+      5.701916813832846,
+      5.965968977386446
+    ],
+    "max_adjacent_endpoint_shift_cm": 13.779234426425843,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_27",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      3.4656548044559337,
+      16.711662156623593,
+      10.947985082838546
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.814521447698288,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_28",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.4504104087185,
+      5.371139137258865,
+      9.986137335887506
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.9366492911614013,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_29",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.836141156253726,
+      6.81164818050774,
+      9.594115968739201
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.7330667908508848,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_30",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      11.866232200526833,
+      7.684194809796358,
+      20.189306497702532
+    ],
+    "max_adjacent_endpoint_shift_cm": 14.06748074170088,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_32",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.229416918100027,
+      9.487626334146224,
+      17.603500928524394
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.714749059422125,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_34",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.717691584212912,
+      9.589400359348447,
+      10.614788137769052
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.0498224301280465,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_37",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      3.2219623517880605,
+      13.400148217234406,
+      7.680774547076147
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.10733572099925,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_39",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.668484642777306,
+      7.617715893734232,
+      17.412748645834206
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.492081995381943,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_40",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.215129156205818,
+      6.011742840337323,
+      7.800868483202969
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.587708381418286,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_41",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      6.819790944110518,
+      4.482086132584973,
+      6.102694337274947
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.79687568195697,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_42",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.652192225523304,
+      6.077098898093432,
+      7.938484936498017
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.6812650048771025,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_43",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.803969569401567,
+      6.0022557486372925,
+      5.3338636425685895
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.753004960463253,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_44",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      7.086502236349963,
+      4.876736561654355,
+      3.915397919391244
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.02303587444944,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_45",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.783012396814944,
+      18.11437013313222,
+      14.277413658829518
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.506886614089233,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_46",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.775755724778206,
+      9.658745666226338,
+      7.693999776995497
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.768395761824495,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_48",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.422969270338065,
+      7.150061719076869,
+      8.144696286430495
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.451288485756307,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_49",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      7.45856917942601,
+      6.965706603300956,
+      8.079194337925484
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.9849124444488133,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_50",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.267500319494488,
+      6.249728877571631,
+      7.505930128545563
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.014716609459596,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_51",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.658820975586144,
+      6.887384337873509,
+      7.246175175688467
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.4263916852375003,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_53",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      3.0792868143529293,
+      14.168511023672234,
+      7.025716814756051
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.057482469108434,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_55",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      10.3462545849013,
+      6.832934086562599,
+      14.516773924940878
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.55701013974424,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_56",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      14.266959467726503,
+      10.453313465691199,
+      19.79834377630651
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.583432735266666,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_58",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      6.651657990820562,
+      4.3336724096759545,
+      6.200443695390103
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.1140731484200654,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_63",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      11.479287874516237,
+      6.354456037513785,
+      10.63128634926805
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.805172344800034,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_64",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.412457826154423,
+      6.186057254984173,
+      8.411806564621608
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.194674139631744,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_65",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      10.635679541413003,
+      7.206305369792906,
+      7.963560670775004
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.0721772630784128,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_66",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      13.000127720220735,
+      5.86195621132759,
+      19.289340287212223
+    ],
+    "max_adjacent_endpoint_shift_cm": 15.34703486411152,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_67",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.997279620957165,
+      4.972406574650922,
+      4.172248074180603
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.673236763283359,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_68",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.585118455888267,
+      11.175960113989971,
+      13.09192198843456
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.7914416223586438,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_69",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.224316802523932,
+      5.972874904389727,
+      15.259016655216548
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.410747320791277,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_71",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.132944319746905,
+      5.674434794201783,
+      9.85036292976032
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.007194158234926,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_75",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.178509473386818,
+      5.750446369977909,
+      7.372909059137511
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.9851444134440033,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_76",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.398216208716958,
+      6.584659751419498,
+      9.592201435436406
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.778425192524901,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_77",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      12.162247498528437,
+      6.707124363483984,
+      14.151846657130484
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.293526717679252,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_81",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.700000316777137,
+      9.553334119950987,
+      7.503200006478878
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.3217483108779198,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_82",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.332100036257897,
+      4.8417468760260896,
+      9.717524027065858
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.840627560275656,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_83",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      9.489638759274078,
+      5.434379372051296,
+      7.955044169172849
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.685546875,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_85",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.934348776205697,
+      6.759311355160631,
+      16.73644394892223
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.596615297351224,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_86",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.002907576242144,
+      4.664369814073481,
+      5.752132516055082
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.566831928967904,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_90",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      10.960458817684279,
+      7.4654675977177964,
+      11.31802606134418
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.8338629868073437,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_91",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      11.001145358916377,
+      5.486120284310101,
+      20.544147194268344
+    ],
+    "max_adjacent_endpoint_shift_cm": 17.91353865604945,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_92",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      6.6020242282497,
+      4.651269992151639,
+      4.830647447746799
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.262956540946861,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_93",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      4.137090823109722,
+      7.28756559915895,
+      4.498780020047193
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.803785477348442,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_94",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.2104074203328405,
+      12.881678934819057,
+      11.072926598212618
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.5442738868035615,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_95",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.792388636189845,
+      6.515641228497499,
+      17.571832472428582
+    ],
+    "max_adjacent_endpoint_shift_cm": 13.610199370090642,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_97",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      5.068924393396629,
+      4.444651652574544,
+      4.067609928995661
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.136057881769036,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_98",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      8.03839304787129,
+      5.796746309552804,
+      7.926830960541789
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.968317924468528,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_99",
+    "type": "first_close",
+    "level": 2,
+    "gaps_cm": [
+      7.304952045419381,
+      5.468159569380184,
+      5.474135581851456
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.199437748272357,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_00",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.766949081238263,
+      6.215899052198277,
+      8.04819004362167
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.8434899715145363,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_01",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.161979762882373,
+      6.136122496331556,
+      6.632078679823332
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.120729574585793,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_02",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      4.9732134300038515,
+      4.82235360681566,
+      7.764074617984022
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.818298397968318,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_03",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.964092508679606,
+      6.202221788840428,
+      10.464339544613248
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.818529236262073,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_04",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.234433822712787,
+      5.454217332737126,
+      4.500717358629195
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.773537715426176,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_05",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.3237905346715895,
+      10.491602349326005,
+      11.37925403497649
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.994979631357872,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_06",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.821989434860978,
+      6.315812097033222,
+      6.454370208114522
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.017558790235897,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_08",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.362509964538779,
+      6.671763180753752,
+      19.518968210914743
+    ],
+    "max_adjacent_endpoint_shift_cm": 14.720247366643385,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_09",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      11.889987918341134,
+      9.350082757789895,
+      11.148014406997337
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.184715597864419,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_10",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.316104484800814,
+      6.308656516612597,
+      7.973225713835743
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.5399548750765346,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_11",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.279745743673996,
+      5.232570868835423,
+      6.133625164898415
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.256815653981762,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_12",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      10.062615417862082,
+      6.610821194817383,
+      19.140037251220836
+    ],
+    "max_adjacent_endpoint_shift_cm": 14.797833599954993,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_13",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      10.43381205908536,
+      6.375108973673472,
+      17.406432472413787
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.738931444285232,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_14",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.257410019870504,
+      14.277730136756528,
+      14.740700144094903
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.1054841047183293,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_15",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.748657106002646,
+      11.44360916127166,
+      10.462650319320312
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.576472671333982,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_16",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.849592609695619,
+      8.063722182907398,
+      10.188942842908448
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.831422240675964,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_21",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.36788877684831,
+      6.035869473577303,
+      17.81443743707228
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.984156132768806,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_23",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.121001370512289,
+      4.054061706505306,
+      6.92129946665891
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.712810776803618,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_24",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.674960441572294,
+      15.400590291945951,
+      15.662139275903108
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.4637007521422265,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_25",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.521559093076364,
+      8.08795437825754,
+      10.433333302633054
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.0925426304297385,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_26",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.798537572162572,
+      12.89973091748088,
+      11.677936190939407
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.1842961356503485,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_27",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.968594703039461,
+      10.080664482197776,
+      11.336529341840011
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.685122569431161,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_29",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.613275172667001,
+      6.833239292355116,
+      7.017067497610245
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.277846423202792,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_30",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.664871945578632,
+      7.602733430271051,
+      10.88355874028454
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.143666952952961,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_31",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.835354988211756,
+      5.502452007901901,
+      5.3672604314699965
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.675790538550999,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_32",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.459203852267344,
+      6.952875945372491,
+      6.575150196792283
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.949510886370237,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_33",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.439447435959316,
+      6.31862773140284,
+      9.74760293423344
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.143750714004442,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_34",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.429084132615545,
+      15.364397805667416,
+      14.855184663349027
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.336160190121783,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_35",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.967806084273448,
+      9.289016454628134,
+      7.195500156622275
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.5380859375,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_37",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.744618869812239,
+      9.83318819745863,
+      10.310788108262727
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.148307449566165,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_38",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.919815786247542,
+      6.284803448082006,
+      9.614827461747687
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.097805912553979,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_39",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.173124687380904,
+      9.057689317393807,
+      10.375523292098169
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.8900016829064359,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_40",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      4.243082010018984,
+      8.703341228050848,
+      7.3549697137614665
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.2697659789009612,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_41",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.359232739239763,
+      5.952369033853044,
+      18.08333605164168
+    ],
+    "max_adjacent_endpoint_shift_cm": 14.090987332275757,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_42",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      10.623534880105261,
+      9.37944390310944,
+      11.019469253144505
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.7406933057216416,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_43",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.999993169817825,
+      7.276341619159944,
+      11.878315530522809
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.717062445787452,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_44",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      10.564530387772605,
+      7.5739332500775705,
+      12.370215556880918
+    ],
+    "max_adjacent_endpoint_shift_cm": 6.111323131389779,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_45",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      12.203115354288984,
+      7.566721426159558,
+      17.951998733368654
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.182873253992419,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_46",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.272730298471872,
+      5.7903506130844375,
+      13.611312993727099
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.794248958007307,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_47",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      11.69694687420133,
+      11.028176890030286,
+      11.440955173610396
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.2641884596402866,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_48",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      11.28845031807009,
+      8.459356536995745,
+      10.4083277796732
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.171876828768326,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_49",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.356274881877203,
+      6.571709063938913,
+      6.891369721821055
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.6641548565827615,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_51",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.68275015308236,
+      6.519846533520883,
+      10.362478295255634
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.6868782211323445,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_52",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      10.628780927440076,
+      9.330538138524584,
+      10.949834876384783
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.37992636022108,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_53",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      11.70256935833773,
+      10.579243806581333,
+      11.271054753501273
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.4955617830264534,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_54",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.446096585179449,
+      10.423874475999934,
+      12.104007653019545
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.9727106370132579,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_56",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.76548738465009,
+      7.120215131343683,
+      6.2807702395422185
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.3302863990063747,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_59",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.570527720477875,
+      3.3530665415031184,
+      4.091678618379515
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.1035641761856843,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_60",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      6.28945641663064,
+      11.16443144220709,
+      14.40407914739781
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.6529834207554863,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_61",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      11.47788276170584,
+      7.562820108418973,
+      13.75433708926571
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.248376917846906,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_62",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.44303365205216,
+      3.277247470590488,
+      4.673565224278211
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.080931868882816,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_63",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.259906611551788,
+      7.381750217627572,
+      8.454355448879443
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.044800311277903,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_65",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      6.079801029200689,
+      6.321333208825131,
+      8.016733645256794
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.842746283609599,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_66",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.420858798249517,
+      8.830759068410664,
+      10.25444396892463
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.3673710253059896,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_68",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.421540630441652,
+      5.755734544972411,
+      6.968746395706694
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.295992986824543,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_69",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      11.827481602318295,
+      10.315201234453975,
+      11.189891612248172
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.7122222282711355,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_70",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.083010135408515,
+      5.21929871322003,
+      9.302573937687415
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.3469838109505587,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_71",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.053574736148881,
+      10.42016369635525,
+      10.295851590274333
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.7406933057216416,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_72",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.968216732805148,
+      7.423509303733048,
+      10.46650849551425
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.216217411117754,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_73",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.304124561545641,
+      3.7855088462014637,
+      8.223022381960325
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.000593627022659,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_74",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.532679694002228,
+      6.519214991628261,
+      10.263189995904218
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.2080896591005885,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_75",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.180511636083553,
+      5.559326752069871,
+      6.2490034071305685
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.392204411183387,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_76",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.557445876015721,
+      9.084446647136039,
+      8.561104378353335
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.382219179724372,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_77",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      6.427853936921679,
+      9.970491250644347,
+      10.278527936304938
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.3203125,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_79",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.533994983528886,
+      6.758644609698034,
+      8.132753378776261
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.9385749542095037,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_82",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      5.147025680248447,
+      6.436277150092989,
+      3.7992705353568987
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.52518876732839,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_83",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      4.912750768150477,
+      4.834420546527002,
+      8.3960618829182
+    ],
+    "max_adjacent_endpoint_shift_cm": 12.046715782495031,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_84",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.722883970681235,
+      5.035930302906279,
+      4.435586540009056
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.003697486614726,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_85",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      6.918855933650088,
+      14.531090484486143,
+      13.254844986475694
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.2891041974262585,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_86",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.657055648731722,
+      7.027666539324497,
+      20.280965904453254
+    ],
+    "max_adjacent_endpoint_shift_cm": 15.087623424077536,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_87",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.708600271801714,
+      5.373709570020938,
+      15.851095678950875
+    ],
+    "max_adjacent_endpoint_shift_cm": 11.212010348886484,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_88",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      12.516493064971602,
+      10.036481128640364,
+      11.388147356326273
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.6812650048771025,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_89",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      6.480827353663092,
+      12.600524705181234,
+      11.901469697089006
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.727778632971665,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_91",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      4.222325085355524,
+      6.052116052602514,
+      5.856234090385648
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.574826548443391,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_92",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      7.933454281390237,
+      11.345107123501272,
+      11.059257426474337
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.3212625632821706,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_94",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      8.104086830915152,
+      15.585436936322184,
+      15.66592070342529
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.4715073621660055,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_98",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      9.365247138285307,
+      6.579527823042487,
+      8.476075644536595
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.148954255126563,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_99",
+    "type": "first_close",
+    "level": 3,
+    "gaps_cm": [
+      6.907071117413674,
+      9.835489393224666,
+      12.36862061823139
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.170921777611648,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R0_09",
+    "type": "first_far_loss",
+    "level": 0,
+    "gaps_cm": [
+      3.7889655472932695,
+      4.233657958635417,
+      6.761359885165623
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.6554035146910764,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R0_46",
+    "type": "first_far_loss",
+    "level": 0,
+    "gaps_cm": [
+      8.05995617096027,
+      5.458522871750874,
+      12.63959098166502
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.770053227783972,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R0_85",
+    "type": "first_far_loss",
+    "level": 0,
+    "gaps_cm": [
+      6.504328052986473,
+      3.1885377404923463,
+      9.505680981532736
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.281270049616161,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R0_92",
+    "type": "first_far_loss",
+    "level": 0,
+    "gaps_cm": [
+      4.040577121710831,
+      3.7492243795029156,
+      3.357731312807827
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.96588134765625,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_03",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      4.91871948615587,
+      4.5842428004482665,
+      6.568624106469607
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.83226801441601,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_10",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      8.153085764243254,
+      6.523171152644526,
+      10.573350510688725
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.963027395271949,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_18",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      7.913133350536398,
+      7.661668116755002,
+      7.109127302441766
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.5777764203838788,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_19",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      8.504933256694427,
+      8.813329518013298,
+      11.93164840953671
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.4540779031176605,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_21",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      9.566516305707793,
+      8.167111427692253,
+      15.17785819793038
+    ],
+    "max_adjacent_endpoint_shift_cm": 8.98769151592334,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_25",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      7.6197814595099045,
+      7.860127319899636,
+      15.124174362690516
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.326627230886924,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_27",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      8.1554372589513,
+      5.152453685029763,
+      12.810688646966575
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.588854208429575,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_29",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      9.032513096535817,
+      7.519129105303138,
+      9.475485330113457
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.4185914913142281,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_30",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      14.13934888876204,
+      6.933449609711875,
+      8.402733306533463
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.8943299573418777,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_32",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      9.292632116074339,
+      7.25289597948884,
+      13.288427306184492
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.353497792661811,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_33",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      13.11262326915138,
+      6.090496413823517,
+      6.148751522072291
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.8285733952954413,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_37",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      8.573174340297774,
+      6.5855833424658785,
+      8.013479752544898
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.726294453557486,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_45",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      10.132386153721399,
+      7.579761873581747,
+      11.011596081546195
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.9430033658637536,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_48",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      10.336731761398973,
+      7.6094048457618815,
+      15.033076639076596
+    ],
+    "max_adjacent_endpoint_shift_cm": 9.366381180192203,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_50",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      8.07762667239617,
+      8.852492876847277,
+      14.242609564692183
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.417095050512855,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_57",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      15.969270424386231,
+      12.861972958350645,
+      15.8747121267857
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.50611778730786,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_65",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      7.280087378853217,
+      6.320607638568177,
+      6.020417038872403
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.518046562972512,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_75",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      4.650640653422134,
+      4.821573546188156,
+      8.067876950136545
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.1489250095557764,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_76",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      13.881167867209513,
+      7.936035108722852,
+      7.737591297862447
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.030953295063602,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_77",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      8.139871563432397,
+      6.723161477962876,
+      8.476668502830805
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.9914033449339332,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R1_82",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      5.25633962070812,
+      4.859530980495515,
+      7.906385171950521
+    ],
+    "max_adjacent_endpoint_shift_cm": 4.081381524775878,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R1_91",
+    "type": "first_far_loss",
+    "level": 1,
+    "gaps_cm": [
+      12.194081154829442,
+      10.130753756789606,
+      12.325621903916135
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.816675309793519,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_00",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      6.293418106107021,
+      6.481282047099636,
+      6.608412757927808
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.1015545881947673,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_02",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      6.434048826362829,
+      6.119608716771766,
+      5.948369258864174
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.72174072265625,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R2_09",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      6.415761980038025,
+      5.667401498538069,
+      5.317633076604351
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.4836565587959232,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_12",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      4.885550643760469,
+      5.1930014928518835,
+      5.1565423161555675
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.1362048556290962,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_17",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      15.143670398768203,
+      12.035020024232875,
+      19.14306755020722
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.801063796033082,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_19",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      5.646596362043546,
+      5.725306820179628,
+      5.852184756105892
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.051240870133352,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_31",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      8.090480531302699,
+      7.667476021047441,
+      14.9323345936362
+    ],
+    "max_adjacent_endpoint_shift_cm": 10.198680569823502,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_33",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      5.540498710338383,
+      6.970671708326163,
+      4.681362188261414
+    ],
+    "max_adjacent_endpoint_shift_cm": 3.503876499913032,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_34",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      5.717691584212912,
+      9.589400359348447,
+      10.614788137769052
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.0498224301280465,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_36",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      4.906035846117829,
+      6.834278242047444,
+      5.005339046591277
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.45263671875,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_37",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      13.400148217234406,
+      7.680774547076147,
+      7.390535915331246
+    ],
+    "max_adjacent_endpoint_shift_cm": 13.587582822545505,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_51",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      4.658820975586144,
+      6.887384337873509,
+      7.246175175688467
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.4263916852375003,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_52",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      5.1100406397251765,
+      5.76913361591639,
+      3.679247243371401
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.8157958984375,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_53",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      14.168511023672234,
+      7.025716814756051,
+      12.342178445954715
+    ],
+    "max_adjacent_endpoint_shift_cm": 5.790818003584189,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_63",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      11.479287874516237,
+      6.354456037513785,
+      10.63128634926805
+    ],
+    "max_adjacent_endpoint_shift_cm": 7.805172344800034,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_68",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      4.585118455888267,
+      11.175960113989971,
+      13.09192198843456
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.7914416223586438,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_70",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      5.637923281806918,
+      7.746649491146074,
+      6.7595853125535506
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.4836220337319586,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_73",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      3.283267345614123,
+      7.377034960082332,
+      6.348505004779442
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.162204330275182,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_74",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      4.184468434653648,
+      4.941717033923318,
+      7.265512966715006
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.3763427734375,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_78",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      6.699354897457358,
+      5.417594939284356,
+      3.904438627333823
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.680141653719263,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_80",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      4.918365974194542,
+      6.39549550492682,
+      6.86452184918937
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.4315574382433518,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_87",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      7.709798286528679,
+      7.8573518205707655,
+      8.05985607352814
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.5815680824321378,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R2_88",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      4.937445446098145,
+      6.3627665693385556,
+      5.166254882211386
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.9753485191418478,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_91",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      11.001145358916377,
+      5.486120284310101,
+      20.544147194268344
+    ],
+    "max_adjacent_endpoint_shift_cm": 17.91353865604945,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_95",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      8.792388636189845,
+      6.515641228497499,
+      17.571832472428582
+    ],
+    "max_adjacent_endpoint_shift_cm": 13.610199370090642,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R2_96",
+    "type": "first_far_loss",
+    "level": 2,
+    "gaps_cm": [
+      5.675803506869348,
+      6.313839705113655,
+      6.288853759720016
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.395847222017604,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_02",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.520252451208521,
+      5.472659228397368,
+      5.555598182217805
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.4282286109640787,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_07",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.643052905518099,
+      5.636764639622944,
+      5.678611470932304
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.8639237464054805,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_18",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.748620169121475,
+      5.54221327987037,
+      5.560385667010917
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.4740353476305566,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_20",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.681706322140154,
+      5.773172306271582,
+      5.85778791307248
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.6241143179847858,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_28",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      7.941441505294511,
+      6.017183349385568,
+      5.980603092086692
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.5301479556443612,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_36",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.762123185502207,
+      5.589930554174368,
+      5.473591680352182
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.3123004373475062,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_55",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      6.776435788443328,
+      6.380107655417364,
+      5.96021066369377
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.2361565668670075,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_67",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.617625126036856,
+      5.257877372953789,
+      5.3344193246130605
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.5443625125755718,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_78",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      6.03063732436937,
+      5.583881280721386,
+      3.7630077813438003
+    ],
+    "max_adjacent_endpoint_shift_cm": 2.131944989968174,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_81",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.4573362439609046,
+      5.777137499917987,
+      5.852039418768791
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.34332275390625,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_83",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      6.199645481202635,
+      6.293147496523025,
+      5.856544158775278
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.8147350367683182,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_91",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.931657140163233,
+      6.528237263834237,
+      6.057336625956342
+    ],
+    "max_adjacent_endpoint_shift_cm": 1.7950977990542898,
+    "stagnant_by_rule": false
+  },
+  {
+    "id": "R3_93",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.523814651312398,
+      6.197854772922738,
+      6.109398459205448
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.8460802466388406,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_96",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.514856378743392,
+      9.739687755300135,
+      9.179886839043096
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.9765625,
+    "stagnant_by_rule": true
+  },
+  {
+    "id": "R3_97",
+    "type": "first_far_loss",
+    "level": 3,
+    "gaps_cm": [
+      5.644105940775308,
+      5.714456649867532,
+      6.209522377864856
+    ],
+    "max_adjacent_endpoint_shift_cm": 0.250244140625,
+    "stagnant_by_rule": true
+  }
+]

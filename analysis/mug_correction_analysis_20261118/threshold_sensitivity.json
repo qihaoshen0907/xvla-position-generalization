@@ -1,0 +1,210 @@
+[
+  {
+    "type": "first_close",
+    "level": 0,
+    "n": 44,
+    "thresholds_cm": {
+      "0": {
+        "planned": 35,
+        "actual_tracking": 36,
+        "actual_fixed_target": 36,
+        "both_plan_and_actual_tracking": 35
+      },
+      "0.5": {
+        "planned": 32,
+        "actual_tracking": 35,
+        "actual_fixed_target": 34,
+        "both_plan_and_actual_tracking": 32
+      },
+      "1": {
+        "planned": 27,
+        "actual_tracking": 19,
+        "actual_fixed_target": 30,
+        "both_plan_and_actual_tracking": 17
+      }
+    },
+    "median_cup_motion_cm": 6.934492623911812
+  },
+  {
+    "type": "first_close",
+    "level": 1,
+    "n": 67,
+    "thresholds_cm": {
+      "0": {
+        "planned": 32,
+        "actual_tracking": 32,
+        "actual_fixed_target": 29,
+        "both_plan_and_actual_tracking": 26
+      },
+      "0.5": {
+        "planned": 29,
+        "actual_tracking": 28,
+        "actual_fixed_target": 24,
+        "both_plan_and_actual_tracking": 24
+      },
+      "1": {
+        "planned": 28,
+        "actual_tracking": 23,
+        "actual_fixed_target": 23,
+        "both_plan_and_actual_tracking": 22
+      }
+    },
+    "median_cup_motion_cm": 0.42464807692047185
+  },
+  {
+    "type": "first_close",
+    "level": 2,
+    "n": 75,
+    "thresholds_cm": {
+      "0": {
+        "planned": 48,
+        "actual_tracking": 49,
+        "actual_fixed_target": 49,
+        "both_plan_and_actual_tracking": 45
+      },
+      "0.5": {
+        "planned": 46,
+        "actual_tracking": 47,
+        "actual_fixed_target": 43,
+        "both_plan_and_actual_tracking": 43
+      },
+      "1": {
+        "planned": 44,
+        "actual_tracking": 43,
+        "actual_fixed_target": 42,
+        "both_plan_and_actual_tracking": 41
+      }
+    },
+    "median_cup_motion_cm": 0.14680944863005377
+  },
+  {
+    "type": "first_close",
+    "level": 3,
+    "n": 89,
+    "thresholds_cm": {
+      "0": {
+        "planned": 51,
+        "actual_tracking": 55,
+        "actual_fixed_target": 53,
+        "both_plan_and_actual_tracking": 51
+      },
+      "0.5": {
+        "planned": 44,
+        "actual_tracking": 53,
+        "actual_fixed_target": 45,
+        "both_plan_and_actual_tracking": 44
+      },
+      "1": {
+        "planned": 42,
+        "actual_tracking": 45,
+        "actual_fixed_target": 41,
+        "both_plan_and_actual_tracking": 39
+      }
+    },
+    "median_cup_motion_cm": 0.18242107185005912
+  },
+  {
+    "type": "first_far_loss",
+    "level": 0,
+    "n": 16,
+    "thresholds_cm": {
+      "0": {
+        "planned": 13,
+        "actual_tracking": 15,
+        "actual_fixed_target": 13,
+        "both_plan_and_actual_tracking": 13
+      },
+      "0.5": {
+        "planned": 12,
+        "actual_tracking": 12,
+        "actual_fixed_target": 12,
+        "both_plan_and_actual_tracking": 11
+      },
+      "1": {
+        "planned": 11,
+        "actual_tracking": 10,
+        "actual_fixed_target": 11,
+        "both_plan_and_actual_tracking": 10
+      }
+    },
+    "median_cup_motion_cm": 0.33247367924987503
+  },
+  {
+    "type": "first_far_loss",
+    "level": 1,
+    "n": 38,
+    "thresholds_cm": {
+      "0": {
+        "planned": 32,
+        "actual_tracking": 28,
+        "actual_fixed_target": 29,
+        "both_plan_and_actual_tracking": 27
+      },
+      "0.5": {
+        "planned": 26,
+        "actual_tracking": 22,
+        "actual_fixed_target": 21,
+        "both_plan_and_actual_tracking": 20
+      },
+      "1": {
+        "planned": 21,
+        "actual_tracking": 19,
+        "actual_fixed_target": 18,
+        "both_plan_and_actual_tracking": 19
+      }
+    },
+    "median_cup_motion_cm": 0.21335541460848712
+  },
+  {
+    "type": "first_far_loss",
+    "level": 2,
+    "n": 37,
+    "thresholds_cm": {
+      "0": {
+        "planned": 23,
+        "actual_tracking": 15,
+        "actual_fixed_target": 19,
+        "both_plan_and_actual_tracking": 14
+      },
+      "0.5": {
+        "planned": 16,
+        "actual_tracking": 11,
+        "actual_fixed_target": 13,
+        "both_plan_and_actual_tracking": 11
+      },
+      "1": {
+        "planned": 11,
+        "actual_tracking": 8,
+        "actual_fixed_target": 11,
+        "both_plan_and_actual_tracking": 8
+      }
+    },
+    "median_cup_motion_cm": 0.8469571121420734
+  },
+  {
+    "type": "first_far_loss",
+    "level": 3,
+    "n": 23,
+    "thresholds_cm": {
+      "0": {
+        "planned": 19,
+        "actual_tracking": 16,
+        "actual_fixed_target": 20,
+        "both_plan_and_actual_tracking": 15
+      },
+      "0.5": {
+        "planned": 12,
+        "actual_tracking": 7,
+        "actual_fixed_target": 17,
+        "both_plan_and_actual_tracking": 5
+      },
+      "1": {
+        "planned": 3,
+        "actual_tracking": 3,
+        "actual_fixed_target": 6,
+        "both_plan_and_actual_tracking": 1
+      }
+    },
+    "median_cup_motion_cm": 1.3846095421139273
+  }
+]

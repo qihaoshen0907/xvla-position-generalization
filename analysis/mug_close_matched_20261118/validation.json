@@ -1,0 +1,10 @@
+{
+  "eligible": 275,
+  "unique_pairs_verified": true,
+  "caliper_verified": true,
+  "labels_and_grasp_filter_verified": true,
+  "source_sha256": {
+    "data/source_experiments/mug_close_embedding_20261118/samples.json": "64b5cef5b6faf2e2b4e29baf86c8a776d16f83fff7230112b34d6a179149c091",
+    "data/source_experiments/mug_features_replay_20261118/query_index.jsonl": "0229a9ee40a2c488ed721821c17d3a6e1939282d5ffcf4feb9efedb1fc5abf55"
+  }
+}
