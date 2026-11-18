@@ -50,4 +50,4 @@
 - tsne_*.npy：二维坐标；与对应配对文件顺序一致，每对先成功后失败。
 - analyze.py、report.py、summary.json、validation.json：代码、数值结果和检查记录。
 
-运行使用相邻feature_analysis_deps分析依赖目录及.venv/bin/python；先analyze.py后report.py。数据源为已有mug_features_replay_20261118与mug_close_embedding_20261118。本轮没有运行仿真、训练模型或修改源数据。公开内容为代码、图表和数值结果，原始特征数据未发布。
+运行使用相邻feature_analysis_deps分析依赖目录及.venv/bin/python；先analyze.py后report.py。数据源为已有mug_features_replay_20261118与mug_close_embedding_20261118。本轮没有运行仿真、训练模型或修改源数据。公开内容为代码、图表和数值结果，完整特征数据见 [Hugging Face 数据集](https://huggingface.co/datasets/QihaoShen/xvla-position-generalization-features)。

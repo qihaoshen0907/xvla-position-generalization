@@ -47,4 +47,4 @@
 - summary.json：样本数、示例编号、高维邻域统计及降维质量指标。
 - analyze.py：可复现分析和制图代码，读取相邻mug_features_replay_20261118及mug_correction_analysis_20261118目录；若二维坐标已经存在则直接复用。
 
-运行时使用项目的feature_analysis_deps分析依赖目录及.venv/bin/python。源数据未修改；本轮分析结果已纳入本公开仓库；原始特征数据未发布。
+运行时使用项目的feature_analysis_deps分析依赖目录及.venv/bin/python。源数据未修改；本轮分析结果已纳入本公开仓库；完整特征数据见 [Hugging Face 数据集](https://huggingface.co/datasets/QihaoShen/xvla-position-generalization-features)。

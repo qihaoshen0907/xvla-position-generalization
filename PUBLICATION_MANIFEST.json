@@ -8,8 +8,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6151,
-      "sha256": "0730cf71e47f7446fbe124ccb124722275ea1870c24aa4a30df0933e9aa8382a"
+      "bytes": 6559,
+      "sha256": "663c9713e7c85b1f383a0584e1f525c176634ca13f259885d09c55c08e8973b7"
     },
     {
       "path": "USAGE.md",
@@ -18,8 +18,8 @@
     },
     {
       "path": "analysis/mug_close_embedding_20261118/README.md",
-      "bytes": 4514,
-      "sha256": "dd56a3afb9a8f9f1ba8fef8dfc79ac35ee6717d71519616a53f01c25d4c570dd"
+      "bytes": 4614,
+      "sha256": "d25b8825dc06ea27969b3f7fe0c1317ee6d7a9dd5808b6e48f03fd5630a4db43"
     },
     {
       "path": "analysis/mug_close_embedding_20261118/analyze.py",
@@ -108,8 +108,8 @@
     },
     {
       "path": "analysis/mug_close_matched_20261118/README.md",
-      "bytes": 4937,
-      "sha256": "690c3ad80f3e40bc1222459576079b67e669d328482d9e358ea0885272aa1122"
+      "bytes": 5037,
+      "sha256": "0838efbc2eec6033cbbc4043cf69a7005253f902cde1b0d6b78c45487d860c44"
     },
     {
       "path": "analysis/mug_close_matched_20261118/analyze.py",
@@ -243,8 +243,8 @@
     },
     {
       "path": "analysis/mug_correction_analysis_20261118/README.md",
-      "bytes": 6610,
-      "sha256": "6032ce6aae6facf7696baf853f8a34ec543668439b6417df6645227a783647da"
+      "bytes": 6710,
+      "sha256": "256c9de8363392a640d542d6cac620d96466bd91f5369223b58b030db87ea767"
     },
     {
       "path": "analysis/mug_correction_analysis_20261118/analyze.py",

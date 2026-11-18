@@ -78,4 +78,4 @@ paired_distance_zh.png只比较两次查询均未检测抓持、目标未成立�
 - loss_subgroups.json、threshold_sensitivity.json、stagnation_candidates.json：敏感性和候选样本。
 - analyze.py → report.py → plots.py；数据来源为相邻mug_features_replay_20261118目录。
 
-本轮分析结果已纳入本公开仓库；原始特征数据未发布。
+本轮分析结果已纳入本公开仓库；完整特征数据见 [Hugging Face 数据集](https://huggingface.co/datasets/QihaoShen/xvla-position-generalization-features)。

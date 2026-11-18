@@ -50,7 +50,13 @@
 
 包含分析代码、中文PNG/PDF、数值汇总、探针预测、采样坐标、108组二维嵌入、运行设置，以及实验和特征采集的参考脚本。没有令牌、本机用户目录、模型权重、完整隐藏特征、原始观测图像或视频。
 
-**完整特征数据尚未公开，也没有已经发布的 Hugging Face 数据集。** 本地采集了400条轨迹、5,526个推理点，完整特征约12.63GB，池化特征约253MB；这些大文件不在本仓库。报告中部分本地文件引用因此暂不可下载，不能将此仓库当作完整原始数据发布。
+**完整特征数据已在 [Hugging Face 数据集](https://huggingface.co/datasets/QihaoShen/xvla-position-generalization-features) 发布。** 包含400条轨迹、5,526个推理点，完整HDF5约12.63GB、池化特征约253MB。GitHub保留代码和分析结果，大文件请从Hugging Face下载。数据含重放观测图像、动作和状态，不含模型权重或完整仿真安装资源。
+
+```bash
+hf download QihaoShen/xvla-position-generalization-features --repo-type dataset --local-dir ./xvla-features
+```
+
+发布副本的本机绝对路径已替换为可移植引用；HDF5仅修改来源路径属性，数值数组与图像不变。数据集包含文件校验清单与BF16读取工具，使用前请阅读其数据说明。
 
 12条试采集先通过无采集/有采集动作一致性验证，再扩展到400条。所有轨迹的保存位置、速度和重算动作与原记录最大误差为0。原始历史输入图像没有无损基准可比，因此没有声称原始像素逐像素验证一致。
 
@@ -68,7 +74,7 @@ python analysis/mug_mechanism_analysis_20261118/plots.py
 
 上述重绘使用仓库内的二维坐标、标签和统计结果，不需要完整模型或特征。代码没有重新生成模拟轨迹。
 
-若已有完整特征数据，可设置 `XVLA_DATA_DIR` 指向包含 `pooled_features.npz`、`query_index.jsonl`、`manifest.json`、`episodes/` 的目录，再运行分析脚本。当前大数据未公开，所以全量从特征重新拟合仅适用于已有该数据的用户。
+若已有完整特征数据，可设置 `XVLA_DATA_DIR` 指向包含 `pooled_features.npz`、`query_index.jsonl`、`manifest.json`、`episodes/` 的目录，再运行分析脚本。完整数据可从上述Hugging Face仓库获取；下载完成后可从特征重新拟合。
 
 `reference/` 是原实验/采集脚本的脱敏快照，依赖额外的 LIBERO-MAX、LIBERO-plus、LeRobot、模型及本地兼容启动器；不是独立的一键仿真安装包。未打包上游软件或权重，参考脚本中的workspace/data路径为占位路径。
 
