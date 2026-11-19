@@ -1,0 +1,62 @@
+[
+  {
+    "method": "tsne",
+    "feature": "vision_main_mean",
+    "trustworthiness_k10": 0.9661534460338101
+  },
+  {
+    "method": "tsne",
+    "feature": "vision_wrist_mean",
+    "trustworthiness_k10": 0.9969934980494148
+  },
+  {
+    "method": "tsne",
+    "feature": "fusion_visual_mean",
+    "trustworthiness_k10": 0.9891918075422627
+  },
+  {
+    "method": "tsne",
+    "feature": "block_00_all_mean",
+    "trustworthiness_k10": 0.9933361508452536
+  },
+  {
+    "method": "tsne",
+    "feature": "block_11_all_mean",
+    "trustworthiness_k10": 0.9931618985695708
+  },
+  {
+    "method": "tsne",
+    "feature": "block_23_all_mean",
+    "trustworthiness_k10": 0.9891365409622886
+  },
+  {
+    "method": "umap",
+    "feature": "vision_main_mean",
+    "trustworthiness_k10": 0.9548745123537061
+  },
+  {
+    "method": "umap",
+    "feature": "vision_wrist_mean",
+    "trustworthiness_k10": 0.9946690507152146
+  },
+  {
+    "method": "umap",
+    "feature": "fusion_visual_mean",
+    "trustworthiness_k10": 0.9807438231469441
+  },
+  {
+    "method": "umap",
+    "feature": "block_00_all_mean",
+    "trustworthiness_k10": 0.9911358907672302
+  },
+  {
+    "method": "umap",
+    "feature": "block_11_all_mean",
+    "trustworthiness_k10": 0.9905104031209363
+  },
+  {
+    "method": "umap",
+    "feature": "block_23_all_mean",
+    "trustworthiness_k10": 0.9828263979193758
+  }
+]

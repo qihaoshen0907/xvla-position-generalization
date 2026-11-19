@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "episodes": 400,
+  "stable_successes": 164,
+  "native_successes": 178,
+  "groups": {
+    "0": {
+      "n": 100,
+      "successes": 56
+    },
+    "1": {
+      "n": 100,
+      "successes": 45
+    },
+    "2": {
+      "n": 100,
+      "successes": 31
+    },
+    "3": {
+      "n": 100,
+      "successes": 32
+    }
+  },
+  "baseline_successes": 133,
+  "all_videos_decoded": true,
+  "wall_seconds": 6042.778664494006
+}

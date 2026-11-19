@@ -4,6 +4,19 @@
 
 **范围：同一场景、机器人初态、杯子朝向和推理种子。不是完整 LIBERO 基准成绩，也不构成失败原因的因果证明。**
 
+## 新增：抓取覆盖增强版 v2 LoRA（400点）
+
+同一400点重测：**33.25% → 41.00%**，90点改善、59点退步。中心区89%→56%，三个外环分别36%→45%、8%→31%、0%→32%。
+
+- [18组中文分析图与逐点数据](analysis/mug_v2_400_retest_20261119/README.md)
+- [完整特征、视频与轨迹：GitHub Release](https://github.com/qihaoshen0907/xvla-position-generalization/releases/tag/v2-400-20261119)
+- [评测设置与400条结果](experiments/mug_v2_400_retest_20261119)
+- [LoRA权重与示范数据（此前发布）](https://huggingface.co/datasets/QihaoShen/xvla-lora-demonstrations-20261119)
+
+![v2与原始模型对比](analysis/mug_v2_400_retest_20261119/01_success_comparison.png)
+
+新增v2的完整数据在GitHub Release提供；下面“原始模型”部分保留此前结果与Hugging Face链接。仓库内不存放完整HDF5和视频。
+
 ## 实验结果
 
 开始前移动白杯，目标为将白杯放到左盘；场景中的其他杯子保留。原模型，无 LoRA，无抬高或回原位恢复策略；每次最多520步，30步动作块。
@@ -48,7 +61,7 @@
 
 ## 本次公开内容
 
-包含分析代码、中文PNG/PDF、数值汇总、探针预测、采样坐标、108组二维嵌入、运行设置，以及实验和特征采集的参考脚本。没有令牌、本机用户目录、模型权重、完整隐藏特征、原始观测图像或视频。
+包含分析代码、中文PNG/PDF、数值汇总、探针预测、采样坐标、108组二维嵌入、运行设置，以及实验和特征采集的参考脚本。Git仓库不包含令牌、本机用户目录、模型权重、完整隐藏特征、原始观测图像或视频；v2完整数据另附于GitHub Release。
 
 **完整特征数据已在 [Hugging Face 数据集](https://huggingface.co/datasets/QihaoShen/xvla-position-generalization-features) 发布。** 包含400条轨迹、5,526个推理点，完整HDF5约12.63GB、池化特征约253MB。GitHub保留代码和分析结果，大文件请从Hugging Face下载。数据含重放观测图像、动作和状态，不含模型权重或完整仿真安装资源。
 

@@ -1,0 +1,24 @@
+{
+  "n": 400,
+  "baseline_successes": 133,
+  "v2_successes": 164,
+  "delta_percentage_points": 7.75,
+  "area_weighted_baseline_percent": 16.66264461636738,
+  "area_weighted_v2_percent": 36.136560437220524,
+  "figures": [
+    "01_success_comparison",
+    "02_spatial_outcomes",
+    "03_spatial_heatmaps",
+    "04_distance_curves",
+    "05_distance_sensitivity",
+    "06_failure_stages",
+    "07_trajectory_diagnostics",
+    "08_action_spatial_distribution",
+    "09_completion_and_latency",
+    "10_paired_outcomes"
+  ],
+  "paired_stratified_bootstrap95_delta_pp": [
+    2.25,
+    13.25
+  ]
+}
